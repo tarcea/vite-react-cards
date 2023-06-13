@@ -1,3 +1,5 @@
+import { BsThreeDotsVertical } from 'react-icons/bs';
+
 const Card = ({ card }: { card: Card }) => {
   const { title, image, description } = card;
   const short = (string: string, length: number) => {
@@ -8,11 +10,15 @@ const Card = ({ card }: { card: Card }) => {
     return str;
   };
   return (
-    <div className='bg-gray-100'>
-      <h1 className='text-xl text-left'>{title}</h1>
-      <img src={image} className='w-1/2 m-auto' />
-      <p className='mb-3 text-left'>{short(description, 100)}</p>
-      <div className='flex content-around'></div>
+    <div className='bg-gray-100 flex flex-wrap items-center justify-between rounded-lg h-20'>
+      <img src={image} className='w-1/3 h-full rounded-l-lg' />
+      <div>
+        <p className='text-sm text text-left font-bold '>{short(title, 20)}</p>
+        <p className='text-sm text text-left '>www.google.com</p>
+      </div>
+      <div className='mr-2 lg:cursor-pointer'>
+        <BsThreeDotsVertical onClick={() => console.log(description)} />
+      </div>
     </div>
   );
 };
