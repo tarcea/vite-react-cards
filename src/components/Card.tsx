@@ -2,9 +2,18 @@ import { useState } from 'react';
 import { BsThreeDotsVertical } from 'react-icons/bs';
 import ButtonDetails from './ButtonDetails';
 
-const Card = ({ card }: { card: Card }) => {
-  const [showDetails, setShowDetails] = useState(false);
-  const { title, image, description, url } = card;
+const Card = ({
+  card,
+  showDetails,
+  setShowDetails,
+}: {
+  card: Card;
+  showDetails: string;
+  setShowDetails: (value: string) => void;
+}) => {
+  const [show, setShow] = useState(false);
+
+  const { title, image, url, id } = card;
   const displayUrl = new URL(url);
 
   const short = (string: string, length: number) => {
@@ -16,7 +25,8 @@ const Card = ({ card }: { card: Card }) => {
   };
 
   const handleDetailsButton = () => {
-    setShowDetails(!showDetails);
+    setShowDetails(id);
+    setShow(!show);
   };
   return (
     <div className='bg-violet-50 flex flex-wrap items-center justify-between rounded-lg h-20 relative'>
@@ -37,7 +47,9 @@ const Card = ({ card }: { card: Card }) => {
       >
         <BsThreeDotsVertical className='' onClick={handleDetailsButton} />
       </div>
-      {showDetails && <ButtonDetails />}
+      {showDetails === id && show && showDetails && (
+        <ButtonDetails cardId={id} />
+      )}
     </div>
   );
 };
