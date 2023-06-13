@@ -1,7 +1,8 @@
 import { BsThreeDotsVertical } from 'react-icons/bs';
 
 const Card = ({ card }: { card: Card }) => {
-  const { title, image, description } = card;
+  const { title, image, description, url } = card;
+  const displayUrl = new URL(url);
   const short = (string: string, length: number) => {
     let str = string;
     if (str.length > length) {
@@ -17,10 +18,13 @@ const Card = ({ card }: { card: Card }) => {
       ></div>
 
       <div>
-        <p className='text-sm text text-left font-bold '>{short(title, 20)}</p>
-        <p className='text-sm text text-left '>www.google.com</p>
+        <p className='text-xs font-thin text text-left '>{displayUrl.host}</p>
+        <p className='text-sm text text-left font-bold '>{short(title, 15)}</p>
       </div>
-      <div className='flex flex-nowrap items-center justify-center mr-2 lg:cursor-pointer w-8 h-8 hover:rounded-full hover:bg-violet-200'>
+      <div
+        className='flex flex-nowrap items-center justify-center mr-2 lg:cursor-pointer w-8 h-8 hover:rounded-full hover:bg-violet-200'
+        title='Details'
+      >
         <BsThreeDotsVertical
           className=''
           onClick={() => console.log(description)}

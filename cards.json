@@ -15,50 +15,58 @@
   },
   {
     "id": 3,
-    "title": "Card 3",
-    "image": "https://picsum.photos/200/100?grayscale&random=3",
-    "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source."
+    "title": "Millions of electric cars are coming. What happens to all the dead batteries?",
+    "image": "https://web-dev.imgix.net/image/foR0vJZKULb5AGJExlazy1xYDgI2/VmeHSQWK5LExsQQ0gUxh.svg?auto=format&fit=max&w=1200&fm=auto",
+    "description": "Researchers urgently seek better ways to reuse spent cells",
+    "url": "https://www.sciencemag.org/news/2021/05/millions-electric-cars-are-coming-what-happens-all-dead-batteries"
   },
   {
     "id": 4,
     "title": "Card 4",
     "image": "https://picsum.photos/200/100?grayscale&random=4",
-    "description": "This is the description for Card 4."
+    "description": "This is the description for Card 4.",
+    "url": "https://www.google.com"
   },
   {
     "id": 5,
     "title": "Card 5",
     "image": "https://picsum.photos/200/100?grayscale&random=5",
-    "description": "This is the description for Card 5."
+    "description": "This is the description for Card 5.",
+    "url": "https://www.google.com"
   },
   {
     "id": 6,
     "title": "Card 6",
     "image": "https://picsum.photos/200/100?grayscale&random=6",
-    "description": "This is the description for Card 6."
+    "description": "This is the description for Card 6.",
+    "url": "https://www.google.com"
   },
   {
     "id": 7,
     "title": "Card 7",
     "image": "https://picsum.photos/200/100?grayscale&random=7",
-    "description": "This is the description for Card 7."
+    "description": "This is the description for Card 7.",
+    "url": "https://www.google.com"
   },
   {
     "id": 8,
     "title": "Card 8",
     "image": "https://picsum.photos/200/100?random=8",
-    "description": "This is the description for Card 8."
+    "description": "This is the description for Card 8.",
+    "url": "https://www.google.com"
   },
   {
     "id": 9,
     "title": "Card 9",
     "image": "https://picsum.photos/200/100?grayscale&random=9",
-    "description": "This is the description for Card 9."
+    "description": "This is the description for Card 9.",
+    "url": "https://www.google.com"
   },
   {
     "id": 10,
     "title": "Card 10",
     "image": "https://picsum.photos/200/100?grayscale&random=0",
-    "description": "This is the description for Card 10."
+    "description": "This is the description for Card 10.",
+    "url": "https://www.google.com"
   }
 ]
