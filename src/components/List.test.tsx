@@ -7,12 +7,14 @@ const data = [
     title: 'Card 1',
     image: '',
     description: 'This is the description for Card 1.',
+    url: '',
   },
   {
     id: 2,
     title: 'Card 2',
     image: 'img1',
     description: 'This is the description for Card 2.',
+    url: '',
   },
 ];
 

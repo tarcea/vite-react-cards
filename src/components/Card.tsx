@@ -11,7 +11,11 @@ const Card = ({ card }: { card: Card }) => {
   };
   return (
     <div className='bg-violet-50 flex flex-wrap items-center justify-between rounded-lg h-20'>
-      <img src={image} className='w-1/3 h-full rounded-l-lg' />
+      <div
+        className='w-24  h-full rounded-l-lg bg-center bg-no-repeat bg-cover'
+        style={{ backgroundImage: `url(${image})` }}
+      ></div>
+
       <div>
         <p className='text-sm text text-left font-bold '>{short(title, 20)}</p>
         <p className='text-sm text text-left '>www.google.com</p>
