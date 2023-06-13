@@ -29,7 +29,7 @@ const Card = ({
     setShow(!show);
   };
   return (
-    <div className='bg-violet-50 flex flex-wrap items-center justify-between rounded-lg h-20 w-full relative hover:shadow-xlg hover:shadow-indigo-800/60 shadow-lg shadow-indigo-500/40'>
+    <div className='bg-violet-50 flex flex-wrap items-center justify-between rounded-lg h-20 w-full relative hover:shadow-xlg hover:shadow-indigo-800/60 shadow-lg shadow-indigo-500/40 cursor-pointer'>
       <div
         className='w-24  h-full rounded-l-lg bg-center bg-no-repeat bg-cover'
         style={{ backgroundImage: `url(${image || '/no-image-png.webp'})` }}
@@ -37,10 +37,10 @@ const Card = ({
 
       <div className=''>
         <p className='text-xs font-thin text text-left absolute top-3 left-32'>
-          {short(displayUrl.host, 15)}
+          {short(displayUrl.host, 20)}
         </p>
         <p className='text-xs text text-left font-bold absolute bottom-5 left-32'>
-          {short(title, 15)}
+          {short(title, 20)}
         </p>
       </div>
       <div
