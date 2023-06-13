@@ -7,7 +7,7 @@ const App = () => {
   const [showDetails, setShowDetails] = useState('');
   const fetchJson = async () => {
     try {
-      const response = await fetch('../data.json');
+      const response = await fetch('/data.json');
       const data = await response.json();
       setData(data);
     } catch (error) {
