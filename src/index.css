@@ -30,7 +30,7 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
-  background-color: lightsteelblue;
+  /* background-color: rgba(230, 180, 236, 0.3); */
 }
 
 h1 {
