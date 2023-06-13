@@ -48,7 +48,7 @@ const Card = ({
         <BsThreeDotsVertical className='' onClick={handleDetailsButton} />
       </div>
       {showDetails === id && show && showDetails && (
-        <ButtonDetails cardId={id} />
+        <ButtonDetails cardId={id} cardUrl={url} />
       )}
     </div>
   );
