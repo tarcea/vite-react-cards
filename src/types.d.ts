@@ -1,11 +1,3 @@
-interface Card1 {
-  id: number;
-  title: string;
-  image: string;
-  description: string;
-  url: string;
-}
-
 interface CrteatedAt {
   seconds: number;
   nanoseconds: number;
