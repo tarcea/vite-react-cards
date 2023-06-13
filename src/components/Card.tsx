@@ -29,7 +29,7 @@ const Card = ({
     setShow(!show);
   };
   return (
-    <div className='bg-violet-50 flex flex-wrap items-center justify-between rounded-lg h-20 relative'>
+    <div className='bg-violet-50 flex flex-wrap items-center justify-between rounded-lg h-20 w-full relative'>
       <div
         className='w-24  h-full rounded-l-lg bg-center bg-no-repeat bg-cover'
         style={{ backgroundImage: `url(${image || '/no-image-png.webp'})` }}
