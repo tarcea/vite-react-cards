@@ -17,10 +17,11 @@ const App = () => {
     fetchJson();
   }, []);
 
-  console.log(data);
   return (
     <div className=''>
-      <List data={data} />
+      <List
+        data={data.sort((a, b) => b.createdAt.seconds - a.createdAt.seconds)}
+      />
     </div>
   );
 };

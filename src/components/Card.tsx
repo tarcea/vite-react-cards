@@ -29,7 +29,7 @@ const Card = ({ card }: { card: Card }) => {
         <p className='text-xs font-thin text text-left '>
           {short(displayUrl.host, 15)}
         </p>
-        <p className='text-sm text text-left font-bold '>{short(title, 15)}</p>
+        <p className='text-xs text text-left font-bold '>{short(title, 15)}</p>
       </div>
       <div
         className='flex flex-nowrap items-center justify-center mr-2 lg:cursor-pointer w-8 h-8 hover:rounded-full hover:bg-violet-200'
