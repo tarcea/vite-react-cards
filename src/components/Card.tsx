@@ -35,11 +35,13 @@ const Card = ({
         style={{ backgroundImage: `url(${image || '/no-image-png.webp'})` }}
       ></div>
 
-      <div>
-        <p className='text-xs font-thin text text-left '>
+      <div className=''>
+        <p className='text-xs font-thin text text-left absolute top-3 left-32'>
           {short(displayUrl.host, 15)}
         </p>
-        <p className='text-xs text text-left font-bold '>{short(title, 15)}</p>
+        <p className='text-xs text text-left font-bold absolute bottom-5 left-32'>
+          {short(title, 15)}
+        </p>
       </div>
       <div
         className='flex flex-nowrap items-center justify-center mr-2 lg:cursor-pointer w-8 h-8 hover:rounded-full hover:bg-violet-200'
