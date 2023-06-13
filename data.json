@@ -1,0 +1,3096 @@
+[
+  {
+    "id": "wbPtlW4iSKGdeO1rNCtN",
+    "createdAt": {
+      "seconds": 1621508278,
+      "nanoseconds": 17000000
+    },
+    "public": true,
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lfrX7X9Y--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/b01y84jhkv2rw9s74fux.jpg",
+    "title": "⚗️ React Redux CRUD app for beginners [with Hooks]",
+    "url": "https://dev.to/sanderdebr/react-redux-crud-app-for-beginners-with-hooks-2hja",
+    "description": "Redux has been and still is the most used library for managing state within React applications. It pr..."
+  },
+  {
+    "id": "7vlkB8BM5ocRgg6d4rn7",
+    "title": "Globuzzer - World First Travelers Social Network",
+    "public": true,
+    "url": "https://globuzzer.com/",
+    "description": "Globuzzer is the World's First Travelers' Social Network , here you can share your travel stories and get a full travel information from other nomads",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "image": "https://www.globuzzer.com/globuzzer-cover.jpg",
+    "createdAt": {
+      "seconds": 1621508340,
+      "nanoseconds": 902000000
+    }
+  },
+  {
+    "id": "7bOoZahh9YrilCXnfJxn",
+    "public": true,
+    "title": "Sibiu",
+    "url": "https://en.wikipedia.org/wiki/Sibiu",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/SibiuCollage2020_%283%29.png/238px-SibiuCollage2020_%283%29.png",
+    "createdAt": {
+      "seconds": 1621508383,
+      "nanoseconds": 39000000
+    },
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "description": "Sibiu is a city in Transylvania, a historical region of Romania. Located some 275km (171mi) north-west of Bucharest, the city straddles the Cibin River, a tributary of the river Olt. Now the capital of the Sibiu County, between 1692 and 1791 and 1849–65 Sibiu was also the capital of the Principality of Transylvania."
+  },
+  {
+    "id": "m72EO9bHziV5I9pNSS2e",
+    "image": "http://www.sunlabs.se/logo192.png",
+    "public": true,
+    "createdAt": {
+      "seconds": 1621508578,
+      "nanoseconds": 943000000
+    },
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "url": "http://www.sunlabs.se/",
+    "title": "Sun Labs Nordic · The Company",
+    "description": "We love design that feels great. We love making your life easier. We don't know what we're doing, but we're great at doing what we love."
+  },
+  {
+    "id": "pjrdbzN6DPIe6hluyMnJ",
+    "public": true,
+    "url": "https://css-tricks.com/design-considerations-text-images/",
+    "description": "I enjoyed Erik D. Kennedy's post 7 Rules for Creating Gorgeous UI (Part 2). In it, his Rule 4 is: Learn the methods of overlaying text on images. I",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "createdAt": {
+      "seconds": 1621607183,
+      "nanoseconds": 296000000
+    },
+    "title": "Design Considerations: Text on Images | CSS-Tricks",
+    "image": "https://i2.wp.com/css-tricks.com/wp-content/uploads/2020/12/social-default.png?fit=1200%2C628&ssl=1"
+  },
+  {
+    "id": "wteBnUMDMfpRj09qoTWW",
+    "createdAt": {
+      "seconds": 1621607232,
+      "nanoseconds": 185000000
+    },
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "image": "https://miro.medium.com/max/1200/1*fM8Ji2M_oTcDs7obS7jsTw.png",
+    "description": "A guide to visual aesthetics, written by a nerd",
+    "title": "7 Rules for Creating Gorgeous UI (Part 2)",
+    "public": true,
+    "url": "https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-2-430de537ba96"
+  },
+  {
+    "id": "Pl2YnNMr5kThAoVUAtgr",
+    "url": "https://unsplash.com/",
+    "image": "http://images.unsplash.com/photo-1621570361070-896021ba01cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMjA3fDF8MXxhbGx8MXx8fHx8fDJ8fDE2MjE2NjY4MzA&ixlib=rb-1.2.1&q=80&w=1080",
+    "createdAt": {
+      "seconds": 1621667374,
+      "nanoseconds": 820000000
+    },
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "public": true,
+    "title": "Beautiful Free Images & Pictures | Unsplash",
+    "description": "Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos."
+  },
+  {
+    "id": "QdvzVd1X7pWf0ZFd4wPO",
+    "image": "https://miro.medium.com/max/1200/0*pPENihfnxABlNFE6",
+    "description": "With Redux and Hooks",
+    "createdAt": {
+      "seconds": 1621667431,
+      "nanoseconds": 739000000
+    },
+    "url": "https://betterprogramming.pub/modals-in-reactjs-631d801e2723",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "public": true,
+    "title": "How to Create Modals in React"
+  },
+  {
+    "id": "8c6UkQnzxhfP2hMCNQAL",
+    "title": "Ruby on Rails Guides",
+    "public": true,
+    "image": "https://avatars.githubusercontent.com/u/4223",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "description": "Ruby on Rails Guides",
+    "url": "https://guides.rubyonrails.org/index.html",
+    "createdAt": {
+      "seconds": 1621667907,
+      "nanoseconds": 799000000
+    }
+  },
+  {
+    "id": "IJ6O40np2NwZBwE8JmlY",
+    "title": "Simplifying web apps with Static Web Apps | Creating Startups",
+    "url": "https://devblogs.microsoft.com/startups/simplifying-web-apps-with-static-web-apps/",
+    "description": "Introduction In 2019, back when we attended events in person, Microsoft participated in Slush, a massive two-day startup event in Helsinki. We had a booth, and we wanted a way to connect with people and have them interact with our presence there without forcing them to have an uncomfortable sales conversation when really,",
+    "public": true,
+    "createdAt": {
+      "seconds": 1621668781,
+      "nanoseconds": 618000000
+    },
+    "image": "https://devblogs.microsoft.com/wp-content/uploads/sites/66/2021/05/startup-adventurer-banner-Large.jpeg",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42"
+  },
+  {
+    "id": "hhDqPMmk6hwhidcJAaib",
+    "image": "https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/ca_0521NF_Shredded_EV_Battery_0.jpg?itok=Wvq-KKN6",
+    "title": "Millions of electric cars are coming. What happens to all the dead batteries?",
+    "url": "https://www.sciencemag.org/news/2021/05/millions-electric-cars-are-coming-what-happens-all-dead-batteries",
+    "public": true,
+    "createdAt": {
+      "seconds": 1621682434,
+      "nanoseconds": 196000000
+    },
+    "description": "Researchers urgently seek better ways to reuse spent cells",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42"
+  },
+  {
+    "id": "Bhb3NrbAZjECeFbpbDLu",
+    "public": true,
+    "title": "Learn JavaScript - A Free 7-hour Interactive Tutorial",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "description": "Over the last four months, I have recorded what is probably the most interactive JavaScript course that has ever been created. The reason I have done this is because I often see new coders fall into the same pitfalls again and again when trying to learn JavaScript, with the most",
+    "createdAt": {
+      "seconds": 1621682556,
+      "nanoseconds": 375000000
+    },
+    "url": "https://www.freecodecamp.org/news/learn-javascript-interactive-course/",
+    "image": "https://www.freecodecamp.org/news/content/images/2021/05/Screenshot-2021-05-20-at-14.33.36.png"
+  },
+  {
+    "id": "XF4fIiuCTB49CuJaf8RB",
+    "public": true,
+    "url": "https://colorhunt.co/",
+    "createdAt": {
+      "seconds": 1621684204,
+      "nanoseconds": 589000000
+    },
+    "image": "https://colorhunt.co/img/color-hunt-palettes-og.png",
+    "description": "Color Hunt is a free and open platform for color inspiration with thousands of trendy hand-picked color palettes",
+    "title": "Color Hunt - Color Palettes for Designers and Artists",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42"
+  },
+  {
+    "id": "tEw4VC8qYsdQVs8q5jXh",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "public": true,
+    "description": "The most popular HTML, CSS, and JS library in the world.",
+    "image": "https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-social.png",
+    "createdAt": {
+      "seconds": 1621684287,
+      "nanoseconds": 210000000
+    },
+    "title": "Bootstrap",
+    "url": "https://getbootstrap.com/"
+  },
+  {
+    "id": "q1sUbVoC4rgs6CUemF2t",
+    "public": true,
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "image": "https://icons.getbootstrap.com/assets/img/bootstrap-icons-social.png",
+    "title": "Bootstrap Icons",
+    "description": "Official open source SVG icon library for Bootstrap",
+    "url": "https://icons.getbootstrap.com/",
+    "createdAt": {
+      "seconds": 1621684327,
+      "nanoseconds": 383000000
+    }
+  },
+  {
+    "id": "kr47zc4b0Vn1oM5i5W0w",
+    "title": "Documentation - Materialize",
+    "createdAt": {
+      "seconds": 1621684380,
+      "nanoseconds": 704000000
+    },
+    "description": "Materialize is a modern responsive CSS framework based on Material Design by Google.",
+    "url": "https://materializecss.com/",
+    "public": true,
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "image": "https://materializecss.com/images/favicon/apple-touch-icon-152x152.png"
+  },
+  {
+    "id": "aYzVr6UJ6F2rYUqczt7H",
+    "title": "Icons - Materialize",
+    "public": true,
+    "image": "https://materializecss.com/images/favicon/apple-touch-icon-152x152.png",
+    "url": "https://materializecss.com/icons.html",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "description": "Materialize is a modern responsive CSS framework based on Material Design by Google.",
+    "createdAt": {
+      "seconds": 1621684444,
+      "nanoseconds": 835000000
+    }
+  },
+  {
+    "id": "oY1Lear7L5zb6hl5RVDl",
+    "createdAt": {
+      "seconds": 1621684520,
+      "nanoseconds": 119000000
+    },
+    "description": "*10 Modern CSS layout and sizing techniques that highlight just how robust and impactful a single-line of styling code can be. [Watch the Video]",
+    "url": "https://1linelayouts.glitch.me/",
+    "public": true,
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "title": "1-Line Layouts",
+    "image": "https://webdev.imgix.net/live/live.png"
+  },
+  {
+    "id": "eLDQaQZDB27TFYAHusXE",
+    "description": "Streamline media management and improve user experience by automatically delivering images and videos, enhanced and optimized for every user.",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "image": "https://res.cloudinary.com/cloudinary-marketing/image/upload/f_auto,q_auto/v1597642219/creative_source/Brand/Social%20Images/Cld_SocShare_Card_FB_2020.png",
+    "url": "https://cloudinary.com/",
+    "public": true,
+    "createdAt": {
+      "seconds": 1621684618,
+      "nanoseconds": 726000000
+    },
+    "title": "Image and Video Upload, Storage, Optimization and CDN"
+  },
+  {
+    "id": "iJYCGIkEbdDYrtDiZWUv",
+    "createdAt": {
+      "seconds": 1621684653,
+      "nanoseconds": 931000000
+    },
+    "image": "http://source.unsplash.com/assets/open-graph-e9fd6b8b42e121e1ca214d94f0551408baad7c04a1c3b63b230e6d62b6f1e28e.jpg",
+    "title": "Unsplash Source",
+    "description": "A simple API for embedding free high-resolution photos from Unsplash.",
+    "public": true,
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "url": "https://source.unsplash.com/"
+  },
+  {
+    "id": "6eUsAfIChJdd37tTzY1c",
+    "public": true,
+    "image": "https://learn.vonage.com/content/blog/5-ways-to-build-a-node-js-api/Blog_Node-js_APIs_1200x600.png",
+    "url": "https://learn.vonage.com/blog/2020/08/11/5-ways-to-build-a-node-js-api/?_lrsc=e3133ad8-adcd-4074-9bc2-8073bb07f0c8&CMP=SOC-ORG-VONAGE-LI-ELEVATE&utm_source=linkedin&utm_medium=social&utm_campaign=leap-elevate",
+    "createdAt": {
+      "seconds": 1621684791,
+      "nanoseconds": 553000000
+    },
+    "description": "5 ways to build lightweight Node.js APIs, using popular frameworks or Node's standard libraries.",
+    "title": "5 Ways to Build a Node.js API » Developer Content from Vonage ♥",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42"
+  },
+  {
+    "id": "k4z96OTYTlqFzH1bKDHY",
+    "title": "Lorem Picsum",
+    "image": "https://picsum.photos/250/250",
+    "url": "https://picsum.photos/",
+    "description": "Lorem Ipsum... but for photos",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "public": true,
+    "createdAt": {
+      "seconds": 1621684968,
+      "nanoseconds": 501000000
+    }
+  },
+  {
+    "id": "85F4RPnQUIeIsIU5LKID",
+    "public": true,
+    "title": "20 Resources for generating fake and mock data",
+    "description": "Speed up development of your website or app using fake or mock data, everything from fake company log...",
+    "url": "https://dev.to/iainfreestone/20-resources-for-generating-fake-and-mock-data-55g1",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "createdAt": {
+      "seconds": 1621685029,
+      "nanoseconds": 334000000
+    },
+    "image": "https://dev.to/social_previews/article/350508.png"
+  },
+  {
+    "id": "9lR41mflG8ph3M6JoZbS",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "image": "https://miro.medium.com/max/1200/1*sfUkg-g5lf6VghP1L7fBTQ.png",
+    "public": true,
+    "createdAt": {
+      "seconds": 1621685127,
+      "nanoseconds": 112000000
+    },
+    "url": "https://blog.bitsrc.io/13-react-time-and-date-pickers-for-2020-d52d88d1ca0b",
+    "description": "Useful React components and libraries that save you time when letting users choose their own time.",
+    "title": "13 React DatePickers and TimePickers for 2020"
+  },
+  {
+    "id": "Hkcc42CJcdh9b0Y3FdN0",
+    "createdAt": {
+      "seconds": 1621706069,
+      "nanoseconds": 926000000
+    },
+    "public": true,
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "image": "https://miro.medium.com/max/820/1*2DYYPOJX44bT9u3WV7Vx0A.jpeg",
+    "description": "The year 2021 has just started, and everyone is predicting trends in their respective fields. After the COVID-19 pandemic, the E-commerce…",
+    "title": "Top trends in Node.js to Watch in 2021",
+    "url": "https://medium.com/selleo/top-trends-in-node-js-to-watch-in-2021-d94ff38cc31e"
+  },
+  {
+    "id": "Y9J3ixpApSAYxvXgkhV7",
+    "description": "Meet the new Sublime Text - it's faster and smarter than ever with hardware acceleration, Apple silicon support, and more!",
+    "image": "https://www.sublimetext.com/images/og-full.jpg",
+    "createdAt": {
+      "seconds": 1621714131,
+      "nanoseconds": 768000000
+    },
+    "url": "https://www.sublimetext.com/blog/articles/sublime-text-4",
+    "public": true,
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "title": "Sublime Text 4"
+  },
+  {
+    "id": "wEVMWSr8YVIUkK5GjOiX",
+    "public": false,
+    "image": "https://cdn.mos.cms.futurecdn.net/6grFX4huwBcznza65pVRmN-1200-80.jpg",
+    "url": "https://www.techradar.com/news/best-laptop-for-programming",
+    "title": "Best laptop for programming in 2021: top picks for coders, developers and sysadmins",
+    "createdAt": {
+      "seconds": 1621752986,
+      "nanoseconds": 760000000
+    },
+    "description": "Put your code face on with the best laptop for programming",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42"
+  },
+  {
+    "id": "HqnXv4ESs4ou44GWpyDS",
+    "image": "https://codahale.com/assets/img/favicon-32x32.png",
+    "public": false,
+    "createdAt": {
+      "seconds": 1621764340,
+      "nanoseconds": 887000000
+    },
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "title": "How To Safely Store A Password",
+    "description": "In which I recommend bcrypt.",
+    "url": "https://codahale.com/how-to-safely-store-a-password/"
+  },
+  {
+    "id": "5reAD2IobcSoDAHCPXXG",
+    "image": "https://opensource.com/sites/default/files/lead-images/browser_web_internet_website.png",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "public": false,
+    "url": "https://opensource.com/article/21/5/global-modals-react",
+    "description": "A modal dialog is a window that appears on top of a web page and requires a user's interaction before it disappears. React has a couple of ways to help you generate and manage modalswith minimal coding. If you create them within a local scope, you must import modals into each component and then create a state to manage each modal's opening and closing status.",
+    "title": "4 steps to set up global modals in React",
+    "createdAt": {
+      "seconds": 1621925122,
+      "nanoseconds": 74000000
+    }
+  },
+  {
+    "id": "kSnR93SgKmK42BB2yBzD",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "url": "https://developer.okta.com/blog/2019/02/14/modern-token-authentication-in-node-with-express",
+    "image": "https://developer.okta.com/assets-jekyll/blog/node-token-auth/token-authentication-flow-69804c12334715c597128cd9273bca5e32ed516b62987902310efc54d1840a40.png",
+    "title": "Modern Token Authentication in Node with Express",
+    "description": "Come learn all about what token authentication is and how to use it in your Node + Express apps.",
+    "createdAt": {
+      "seconds": 1622142429,
+      "nanoseconds": 122000000
+    },
+    "public": true
+  },
+  {
+    "id": "bPgnNxPQF9toYCRkiBxY",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "public": false,
+    "title": "JWT.IO",
+    "description": "JSON Web Tokens are an open, industry standard RFC 7519 method for representing claims securely between two parties.",
+    "image": "http://jwt.io/img/facebook-card.png",
+    "createdAt": {
+      "seconds": 1622184121,
+      "nanoseconds": 370000000
+    },
+    "url": "https://jwt.io/"
+  },
+  {
+    "id": "Anqvs36P01sdJeGBplPh",
+    "description": "Flexbox is amazing and they make positioning in CSS much, much better than raw positioning (Absolute,...",
+    "url": "https://dev.to/heyonuoha/a-simple-css-flexbox-cheat-sheet-4k2b",
+    "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--umlQvh0O--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5di9wm9dwla98gd466cf.png",
+    "public": true,
+    "createdAt": {
+      "seconds": 1622191797,
+      "nanoseconds": 355000000
+    },
+    "title": "A Simple CSS Flexbox Cheat Sheet",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42"
+  },
+  {
+    "id": "pOtyoiPIQoSZzLoniB0U",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "image": "https://miro.medium.com/max/1200/0*eb40xJDoXqs8wYI3",
+    "createdAt": {
+      "seconds": 1622265289,
+      "nanoseconds": 735000000
+    },
+    "description": "Today, we’ll discuss some of the new features of JavasScript that are very useful and can help us achieve more by writing less code.",
+    "public": true,
+    "title": "JavaScript 2021: New Features",
+    "url": "https://javascript.plainenglish.io/javascript-2021-new-features-429bc050f4e8"
+  },
+  {
+    "id": "hZD4Xpc0iotHsqS0xek0",
+    "image": "https://web-dev.imgix.net/image/foR0vJZKULb5AGJExlazy1xYDgI2/VmeHSQWK5LExsQQ0gUxh.svg?auto=format&fit=max&w=1200&fm=auto",
+    "title": "Learn CSS",
+    "createdAt": {
+      "seconds": 1622268412,
+      "nanoseconds": 340000000
+    },
+    "description": "An evergreen CSS course and reference to level up your web styling expertise.",
+    "url": "https://web.dev/learn/css/",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "public": true
+  },
+  {
+    "id": "tRnS88J4Myg6eAqksUic",
+    "title": "Node.js Modules",
+    "createdAt": {
+      "seconds": 1622291334,
+      "nanoseconds": 624000000
+    },
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "url": "https://www.tutorialsteacher.com/nodejs/nodejs-modules",
+    "image": "https://www.tutorialsteacher.com/assets/images/fbshare.jpg",
+    "public": false,
+    "description": "Module in Node.js is a simple or complex functionality organized in a single or multiple JavaScript files which can be reused throughout your Node.js application."
+  },
+  {
+    "id": "XGils82Vo4h4gtRITTwk",
+    "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DHECWbnX--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dubqdygor1q8e5v23kw5.png",
+    "public": true,
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "url": "https://dev.to/sanspanic/why-you-should-learn-next-next-5427",
+    "description": "So you've learned React. You know, at least vaguely, what the virtual DOM is and are comfortable with...",
+    "title": "Why You Should Learn Next Next",
+    "createdAt": {
+      "seconds": 1622355857,
+      "nanoseconds": 951000000
+    }
+  },
+  {
+    "id": "2VVBC1DyBs2ndDlKQmGv",
+    "createdAt": {
+      "seconds": 1622410849,
+      "nanoseconds": 462000000
+    },
+    "title": "Authentication and Authorization Using JWT in Node JS with Express",
+    "public": false,
+    "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Hm1LaeqC--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/z0kkzrqlj80qiukcclz6.jpg",
+    "url": "https://dev.to/mhmdlotfy96/authentication-and-authorization-using-jwt-in-node-js-with-express-5bo6",
+    "description": "Table Of Contents What is authentication & authorization ?! What is (JWT)JSON Web Tok...",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42"
+  },
+  {
+    "id": "OGffJef6D9JeUea0rIEe",
+    "description": "A JavaScript library for building user interfaces",
+    "image": "https://reactjs.org/logo-og.png",
+    "url": "https://reactjs.org/docs/create-a-new-react-app.html",
+    "createdAt": {
+      "seconds": 1622532474,
+      "nanoseconds": 469000000
+    },
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "public": true,
+    "title": "Create a New React App – React"
+  },
+  {
+    "id": "9ynGSj5juDZ7u4VDqjUg",
+    "title": "Well hello there! - Billogram",
+    "public": false,
+    "description": "Similar to the way all parents believe their kid can be the next big figure skating star or a great soccer player like Zlatan, everyone here at Billogram believes digital invoicing has the potentia...",
+    "createdAt": {
+      "seconds": 1622749936,
+      "nanoseconds": 549000000
+    },
+    "url": "https://career.billogram.com/",
+    "image": "https://media.cdn.teamtailor.com/images/s3/teamtailor-production/gallery_picture-v1/image_uploads/a6c9c7c0-de81-466a-8c95-1d66df1a1ff3/original.png",
+    "userId": "dKqt89BqzPgHzOq1wpva8rqMzmt2"
+  },
+  {
+    "id": "lTifVhlVq3EqFQRxWK4D",
+    "public": false,
+    "title": "Jobs list - Tink",
+    "image": "https://media.cdn.teamtailor.com/images/s3/teamtailor-production/gallery_picture-v1/image_uploads/80f36d72-3a9f-4033-bd52-517a3df4a445/original.png",
+    "url": "https://jobs.tink.se/jobs",
+    "createdAt": {
+      "seconds": 1622749989,
+      "nanoseconds": 376000000
+    },
+    "userId": "dKqt89BqzPgHzOq1wpva8rqMzmt2",
+    "description": "At Tink, we’re creating the foundations that a new world of finance will be built on. By constantly challenging ourselves to go further and do better, we’re developing the ground-breaking services that businesses will use, to revolutionise the way millions of people manage their money. The world of financial services is changing fast, and we will continue to be at the forefront of it."
+  },
+  {
+    "id": "gEdWJRrU3DdKdJwlKaG5",
+    "userId": "dKqt89BqzPgHzOq1wpva8rqMzmt2",
+    "createdAt": {
+      "seconds": 1622750030,
+      "nanoseconds": 102000000
+    },
+    "title": "Join the AR Revolution - HVNT",
+    "url": "https://careers.hvnt.co/",
+    "description": "HVNT is a fast growing compant offering unique opportunities for people interested in gaming, entertainment and augmented reality!",
+    "public": false,
+    "image": "https://s3-eu-west-1.amazonaws.com/tt-screenshots/4d6f49aa-afc9-4804-b98d-eb0a490bda81-facebook.png?update=1606789272"
+  },
+  {
+    "id": "SOdfeiQ3OFUrcwHYPa23",
+    "image": "https://s3-eu-west-1.amazonaws.com/tt-screenshots/f047f1d4-5794-42ff-bc74-5993f129855d-facebook.png?update=1621425154",
+    "description": ". Small business is the backbone of our economy: 4 out of 5 new jobs are created by small business builders. Qred helps small companies grow by providing fair and accessible financing.For us, sma...",
+    "url": "https://jobs.qred.com/",
+    "title": "Natural-born Builders - Qred",
+    "createdAt": {
+      "seconds": 1622750135,
+      "nanoseconds": 221000000
+    },
+    "userId": "dKqt89BqzPgHzOq1wpva8rqMzmt2",
+    "public": false
+  },
+  {
+    "id": "kZAS1gQTJ6yPg2ofWJtU",
+    "public": false,
+    "description": "We love design that feels great. We love making your life easier. We don't know what we're doing, but we're great at doing what we love.",
+    "image": "https://sunlabs.se/logo192.png",
+    "title": "Sun Labs Nordic · The Company",
+    "userId": "dKqt89BqzPgHzOq1wpva8rqMzmt2",
+    "url": "https://sunlabs.se/",
+    "createdAt": {
+      "seconds": 1622750290,
+      "nanoseconds": 906000000
+    }
+  },
+  {
+    "id": "ASYvjnO4rm6xVolur5lw",
+    "url": "https://blog.logrocket.com/simplify-react-state-management-with-hookstate/",
+    "createdAt": {
+      "seconds": 1622798334,
+      "nanoseconds": 173000000
+    },
+    "public": true,
+    "description": "If you're looking to simplify state management in React, learn about Hookstate, an incredibly fast and flexible state management tool.",
+    "title": "Simplify React state management with Hookstate - LogRocket Blog",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "image": "https://blog.logrocket.com/wp-content/uploads/2021/05/simplify-react-state-management-hookstate.png"
+  },
+  {
+    "id": "Pt0MzO1S49XTtXGwiygo",
+    "public": true,
+    "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IjSyaJ5y--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lio12yfvz0gbqt0fkmyt.jpg",
+    "title": "7 Steps to Become an Expert Software Engineer without endless online courses or waiting for years...",
+    "createdAt": {
+      "seconds": 1622841063,
+      "nanoseconds": 439000000
+    },
+    "url": "https://dev.to/dragosgn/7-steps-to-become-an-expert-software-engineer-without-endless-online-courses-or-waiting-for-years-m8j",
+    "description": "Does this sound familiar to you? If you are a coder, programmer or software developer then...",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42"
+  },
+  {
+    "id": "3tzzuLxD2Iu1Kky5RVCW",
+    "description": "We are a high-end boutique tech consulting firm that delivers extraordinary talent where Passion, Ownership and High Performance are in the center. Our talents have a wide range of experience from some of the leading tech and media companies, such as Spotify, Viaplay, King, Schibsted and Discovery.",
+    "image": "http://static1.squarespace.com/static/55e561fce4b0524376a841d3/t/5d431af629100a0001e9250a/1564678904200/?format=1500w",
+    "url": "https://www.mirado.com/be-consultant",
+    "title": "Mirado Consulting",
+    "createdAt": {
+      "seconds": 1622876568,
+      "nanoseconds": 147000000
+    },
+    "public": false,
+    "userId": "dKqt89BqzPgHzOq1wpva8rqMzmt2"
+  },
+  {
+    "id": "qUz1ilWOXpGDHnx4YLzL",
+    "title": "A Curated List of 100 Cool and Fun Public APIs to Inspire Your Next Project",
+    "description": "Humor, food, machine learning, crime, sports, and more",
+    "url": "https://betterprogramming.pub/a-curated-list-of-100-cool-and-fun-public-apis-to-inspire-your-next-project-7600ce3e9b3",
+    "image": "https://miro.medium.com/max/1024/1*qqSHCBs_v7FNLtzuc6y45g.jpeg",
+    "public": true,
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "createdAt": {
+      "seconds": 1622889609,
+      "nanoseconds": 56000000
+    }
+  },
+  {
+    "id": "wBhqIKnjNFexO4UIXLAd",
+    "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TqzJcLPB--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f64hy56ncb4zfef41dpz.png",
+    "createdAt": {
+      "seconds": 1623323899,
+      "nanoseconds": 324000000
+    },
+    "public": true,
+    "title": "Best Online Code Editors For Web Developers",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "description": "Are you looking for Best Online Code editors? Then here is the collection of Best Online Code Editors...",
+    "url": "https://dev.to/theme_selection/best-online-code-editors-for-web-developers-5bpn"
+  },
+  {
+    "id": "tgoZeOXnk1KlxQ2b4GDh",
+    "createdAt": {
+      "seconds": 1623397705,
+      "nanoseconds": 500000000
+    },
+    "url": "https://dev.to/techygeeky/top-20-javascript-tips-and-tricks-to-increase-your-speed-and-efficiency-283g",
+    "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MQTJ2z9r--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lgxazdfz1fw4s3jh2285.jpg",
+    "title": "Top 20 JavaScript tips and tricks to increase your Speed and Efficiency",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "description": "Convenient and useful techniques to reduce the lines of code and pace up your Dev Work! In...",
+    "public": true
+  },
+  {
+    "id": "9qOK7BB8A4uOBM9KlIPd",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "url": "https://imagecompressor.com/",
+    "title": "Online Image Сompressor",
+    "description": "Optimizilla is the ultimate image optimizer to compress your images in JPEG and PNG formats to the minimum possible size.",
+    "image": "https://imagecompressor.com/images/imagecompressor/icon.png",
+    "createdAt": {
+      "seconds": 1623418137,
+      "nanoseconds": 859000000
+    },
+    "public": true
+  },
+  {
+    "id": "qZauKHfaytCxXUuSjL7O",
+    "image": "https://caniuse.com/img/favicon-128.png",
+    "url": "https://caniuse.com/",
+    "public": true,
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "title": "Can I use... Support tables for HTML5, CSS3, etc",
+    "description": "Our partnership with BrowserStack now lets you test your website for compatibility across 2,000+ real browsers and devices.",
+    "createdAt": {
+      "seconds": 1623418293,
+      "nanoseconds": 483000000
+    }
+  },
+  {
+    "id": "SpDDtwwV00thZjlNLFu9",
+    "public": true,
+    "title": "Send email from Javascript - no server code required | EmailJS",
+    "url": "https://www.emailjs.com/",
+    "createdAt": {
+      "seconds": 1623418323,
+      "nanoseconds": 703000000
+    },
+    "image": "https://www.emailjs.com/social-top.png",
+    "description": "Send email directly from your client-side Javascript code – no server side code required. Add static or dynamic attachments, dynamic parameters, captcha code and more. Start with our free tier!",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42"
+  },
+  {
+    "id": "zATTqXX0X8pm8jCbKLhb",
+    "url": "https://leetcode.com/",
+    "createdAt": {
+      "seconds": 1623418354,
+      "nanoseconds": 113000000
+    },
+    "title": "LeetCode - The World's Leading Online Programming Learning Platform",
+    "public": true,
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "image": "https://leetcode.com/static/images/LeetCode_Sharing.png",
+    "description": "Level up your coding skills and quickly land a job. This is the best place to expand your knowledge and get prepared for your next interview."
+  },
+  {
+    "id": "9hwqGVWV9fWQnncDEJn4",
+    "url": "https://dribbble.com/",
+    "createdAt": {
+      "seconds": 1623418384,
+      "nanoseconds": 364000000
+    },
+    "image": "https://cdn.dribbble.com/assets/apple-touch-icon-precomposed-1c6d9b0a173f5b2d5c392ea101bb206ee9a2a39bef19eb21513b857eeb3624d2.png",
+    "title": "Dribbble - Discover the World’s Top Designers & Creative Professionals",
+    "description": "Dribbble is where designers gain inspiration, feedback, community, and jobs and is your best resource to discover and connect with designers worldwide.",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "public": true
+  },
+  {
+    "id": "Em560fQBiNprF9C8xZ1I",
+    "title": "Awwwards - Website Awards - Best Web Design Trends",
+    "image": "https://assets.awwwards.com/assets/images/pages/about-certificates/awwwards.jpg",
+    "url": "https://www.awwwards.com/",
+    "createdAt": {
+      "seconds": 1623418447,
+      "nanoseconds": 83000000
+    },
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "public": true,
+    "description": "Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world."
+  },
+  {
+    "id": "ISczghqzGtpaoNErhsXO",
+    "public": false,
+    "description": "Our mission is to drive change within the financial services industry. Fimento is engaged in a tireless effort to develop how traditional banking and finance is conducted.",
+    "image": "https://s3-eu-west-1.amazonaws.com/tt-screenshots/96564de5-a9b7-4da6-9ee7-05f752b23b3b-facebook.png?update=1602068870",
+    "userId": "dKqt89BqzPgHzOq1wpva8rqMzmt2",
+    "createdAt": {
+      "seconds": 1623436063,
+      "nanoseconds": 323000000
+    },
+    "url": "https://fimento.teamtailor.com/",
+    "title": "En unik karriär - Fimento"
+  },
+  {
+    "id": "6tAaShU7daOPBk43nB0g",
+    "public": false,
+    "userId": "dKqt89BqzPgHzOq1wpva8rqMzmt2",
+    "createdAt": {
+      "seconds": 1623436324,
+      "nanoseconds": 995000000
+    },
+    "image": "https://www.qlik.com/us/-/media/images/global/og-meta-images/og-default-slate.jpg",
+    "url": "https://www.qlik.com/us/company/careers/job-listings?countries-Sweden=on#searchResults",
+    "title": "Job Listings",
+    "description": "Learn about analytics and data integration best practices, latest industry trends - white papers, analyst reports, customer stories, technical briefs and more."
+  },
+  {
+    "id": "Zvzke34FpR59FeFuIvcE",
+    "image": "https://www.gravatar.com/avatar/bf586a76e0388388006827ed410ffa00?d=retro&r=g&s=200",
+    "createdAt": {
+      "seconds": 1623512044,
+      "nanoseconds": 334000000
+    },
+    "userId": "dKqt89BqzPgHzOq1wpva8rqMzmt2",
+    "url": "https://iteam.se/karriar",
+    "description": "Vi söker dig som älskar att lära nytt och att lösa komplexa problem med digitala lösningar som skapar värde på riktigt.",
+    "title": "Iteam",
+    "public": false
+  },
+  {
+    "id": "udleICoVwQruCWj5bpLU",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "url": "https://www.cnbc.com/2021/02/17/want-to-make-a-strong-resume-avoid-these-5-biggest-mistakes-that-make-it-look-weak.html?utm_term=Autofeed&utm_medium=Social&utm_content=Intl&utm_source=Facebook#Echobox=1618690488",
+    "description": "Hiring managers must go through hundreds of resumes before finding just a few good ones. Don't want yours to get tossed? Avoid these biggest resume mistakes.",
+    "title": "I've been reviewing resumes for 26 years. These are the 5 biggest mistakes that make candidates look weak",
+    "image": "https://image.cnbcfm.com/api/v1/image/106841523-1613575051889-GettyImages-891315492.jpg?v=1613575155",
+    "createdAt": {
+      "seconds": 1623525219,
+      "nanoseconds": 414000000
+    },
+    "public": false
+  },
+  {
+    "id": "k5c49vftWpijXaxULf47",
+    "title": "mycoolbookmark",
+    "url": "https://mycoolbookmark.web.app/",
+    "image": "https://mycoolbookmark.web.app/fantanele.jpg",
+    "createdAt": {
+      "seconds": 1623595634,
+      "nanoseconds": 537000000
+    },
+    "public": true,
+    "description": "Bookmark your resources here, or just explore around. You can keep your bookmarks private, or you can share with the World",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42"
+  },
+  {
+    "id": "8kCdM7gxzEFfftK3ajqv",
+    "public": true,
+    "createdAt": {
+      "seconds": 1623816106,
+      "nanoseconds": 323000000
+    },
+    "url": "https://dev.to/bogdaaamn/run-your-nodejs-application-on-a-headless-raspberry-pi-4jnn",
+    "title": "Run your Node.js application on a headless Raspberry Pi",
+    "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tG0oiYHg--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/0bfltkt5fvhg9sxyrwi4.jpg",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "description": "Recently I've got a little piece of hardware on my desk. Rather than have it sit on its ass all day, I got a little Node.js application running through Nginx."
+  },
+  {
+    "id": "Vgp4RunbSiL7NvQqQTVv",
+    "url": "https://www.exeger.com/jobs/19765-prototype-engineer-/",
+    "createdAt": {
+      "seconds": 1623823956,
+      "nanoseconds": 437000000
+    },
+    "description": "Exeger is searching for a Prototype Engineer to join our incredible journey. A new era of self-powered products. Exeger is a driving force of new science and technology for sustainable energy. Our solar cell innovation transforms any form of light into electrical power to improve everyday life –…",
+    "public": false,
+    "userId": "dKqt89BqzPgHzOq1wpva8rqMzmt2",
+    "title": "Prototype Engineer",
+    "image": "https://www.exeger.com/uploads/2021/02/ExegerIcon-180x180.jpg"
+  },
+  {
+    "id": "EUZR2VxlwUM24rXGPq2Y",
+    "url": "https://www.accessibility-developer-guide.com/",
+    "title": "Welcome to the Accessibility Developer Guide!",
+    "image": "https://www.accessibility-developer-guide.com/img/logo/zfa.png",
+    "description": "If you want to learn more about designing and implementing fully accessible websites, you've come to the right place.",
+    "public": true,
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "createdAt": {
+      "seconds": 1624136536,
+      "nanoseconds": 791000000
+    }
+  },
+  {
+    "id": "IjxXvGM2MQNG09oaeRVP",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "title": "regex101: build, test, and debug regex",
+    "public": true,
+    "createdAt": {
+      "seconds": 1624168067,
+      "nanoseconds": 803000000
+    },
+    "description": "Regular expression tester with syntax highlighting, explanation, cheat sheet for PHP/PCRE, Python, GO, JavaScript, Java. Features a regex quiz & library.",
+    "url": "https://regex101.com/",
+    "image": "https://regex101.com/static/assets/card.png"
+  },
+  {
+    "id": "0mTxJc0bo9IsbeltTzov",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "title": "Cron expression generator by Cronhub",
+    "url": "https://crontab.cronhub.io/",
+    "createdAt": {
+      "seconds": 1624168141,
+      "nanoseconds": 391000000
+    },
+    "public": false,
+    "image": "",
+    "description": "Cron expression generator by Cronhub"
+  },
+  {
+    "id": "SEkGQ3P6UgbosZdyRfsS",
+    "public": true,
+    "url": "https://www.epochconverter.com/",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "description": "Convert Unix Timestamps (and many other date formats) to regular dates.",
+    "title": "Epoch Converter",
+    "createdAt": {
+      "seconds": 1624168230,
+      "nanoseconds": 400000000
+    },
+    "image": "https://www.epochconverter.com/img/epochconverter-og-img.png"
+  },
+  {
+    "id": "gJ9j1ub9bXLTOtgDbLgK",
+    "createdAt": {
+      "seconds": 1624168263,
+      "nanoseconds": 143000000
+    },
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "title": "URL Encode and Decode - Online",
+    "public": true,
+    "url": "https://www.urlencoder.org/",
+    "description": "Encode to URL-encoded format (also known as \"percent-encoded\") or decode from it with various advanced options. Our site has an easy to use online tool to convert your data.",
+    "image": "https://cdn.urlencoder.org/assets/images/url-fb.png"
+  },
+  {
+    "id": "JopCXWVqVGO2KALeJyOB",
+    "description": "Format and validate JSON data so that it can easily be read by human beings.",
+    "url": "https://jsonformatter.curiousconcept.com/",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "title": "JSON Formatter & Validator",
+    "image": "https://jsonformatter.curiousconcept.com/icons/jf/mstile-144x144.b0ef4bd01d6cb25ab71ae707ed7ac226.png",
+    "public": true,
+    "createdAt": {
+      "seconds": 1624168296,
+      "nanoseconds": 996000000
+    }
+  },
+  {
+    "id": "dVhoJk7Vwbw3B3HrNcjl",
+    "public": false,
+    "title": "Text Compare! - An online diff tool that can find the difference between two text files",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "image": "",
+    "createdAt": {
+      "seconds": 1624168336,
+      "nanoseconds": 477000000
+    },
+    "url": "https://text-compare.com/",
+    "description": "Text Compare! is an online diff tool that can find the difference between two text documents. Just paste and compare."
+  },
+  {
+    "id": "X4cajyCFeqK735cNaxTo",
+    "url": "https://www.flaticon.com/",
+    "image": "https://media.flaticon.com/share/flaticon-generic.jpg",
+    "public": true,
+    "createdAt": {
+      "seconds": 1624168399,
+      "nanoseconds": 21000000
+    },
+    "description": "Download Free Vector Icons and Stickers for your projects. Resources made by and for designers. PNG, SVG, EPS, PSD and CSS formats",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "title": "Free Vector Icons and Stickers - Thousands of resources to download"
+  },
+  {
+    "id": "ct6CkNjrphZ18znPtAKZ",
+    "createdAt": {
+      "seconds": 1624168434,
+      "nanoseconds": 43000000
+    },
+    "description": "Discover millions of copyright-free vectors, photos and PSD",
+    "public": true,
+    "image": "https://freepik.cdnpk.net/img/logo-fb-en.png",
+    "url": "https://www.freepik.com/",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "title": "Freepik | Graphic Resources for everyone"
+  },
+  {
+    "id": "vT4iXGvLBEWTCtKFpbM0",
+    "description": "Chirag Mehta - Personal Web Log - 'blog - Chime Softwares - Indian Blogger live from Saint Petersburg, Florida, St. Pete, FL",
+    "url": "https://chir.ag/projects/name-that-color/#6195ED",
+    "image": "https://chir.ag/res/chir.ag.jpg",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "createdAt": {
+      "seconds": 1624168471,
+      "nanoseconds": 975000000
+    },
+    "public": true,
+    "title": "Name that Color - Chirag Mehta : chir.ag"
+  },
+  {
+    "id": "VwrnPnuKnXiyFEl32sTg",
+    "image": "https://cloudconvert.com/images/logo_flat_32.png",
+    "createdAt": {
+      "seconds": 1624168510,
+      "nanoseconds": 298000000
+    },
+    "public": true,
+    "title": "CloudConvert",
+    "description": ">File converter service - more than 200 different audio, video, document, ebook, archive, image, spreadsheet and presentation formats supported.",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "url": "https://cloudconvert.com/"
+  },
+  {
+    "id": "1NuGDdOQtLMe71SzhkIg",
+    "public": false,
+    "title": "App Icon Generator",
+    "image": "",
+    "description": "",
+    "createdAt": {
+      "seconds": 1624168557,
+      "nanoseconds": 547000000
+    },
+    "url": "https://appicon.co/",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42"
+  },
+  {
+    "id": "xpu7Kh5Yuola3acYseyg",
+    "url": "https://dev.to/dhaiwat10/develop-test-react-components-in-isolation-3714",
+    "description": "Writing front-end code is easy. But writing reliable front-end code? That's tough. Modern UIs are...",
+    "createdAt": {
+      "seconds": 1624310416,
+      "nanoseconds": 958000000
+    },
+    "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tQrhntbo--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mwpnd4ztvt2yme2zyipl.jpg",
+    "title": "Develop & test React components in isolation",
+    "public": true,
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42"
+  },
+  {
+    "id": "2RMdt4N28hMg35YIIQMC",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "title": "3 React concepts I wish I knew when I started",
+    "url": "https://dev.to/rubengabrielian/3-react-concepts-i-wish-i-knew-when-i-started-4bim",
+    "public": false,
+    "createdAt": {
+      "seconds": 1624334762,
+      "nanoseconds": 841000000
+    },
+    "description": "When I stumbled upon React, I barely had any JS knowledge. I had been told by my peers and the...",
+    "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nrxflU4n--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9tsy1jvndyoozpqhew73.jpeg"
+  },
+  {
+    "id": "lMfQsbk6R0uFgUP1uDR8",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "createdAt": {
+      "seconds": 1624388020,
+      "nanoseconds": 533000000
+    },
+    "title": "Open Notify",
+    "image": "",
+    "url": "http://open-notify.org/",
+    "public": false,
+    "description": "Open Notify is an open source project to provide a simple programming interface for some of NASA’s awesome data. I do some of the work to take raw data and turn them into APIs related to space and spacecraft."
+  },
+  {
+    "id": "0v2LZp6xim49O8FiKrV6",
+    "createdAt": {
+      "seconds": 1624469117,
+      "nanoseconds": 338000000
+    },
+    "title": "How to Build a Portfolio Website with React",
+    "image": "https://www.freecodecamp.org/news/content/images/2021/06/react-portfolio-2021.png",
+    "public": false,
+    "url": "https://www.freecodecamp.org/news/build-portfolio-website-react/",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "description": "Today you're going to create one of the most important apps you can build for yourself: your developer portfolio. Every React developer or web developer in general needs to be able to show off what they can do to any potential client or employer. That's exactly what we're going to"
+  },
+  {
+    "id": "1AcqAkdBBywxJ3cHq1Yd",
+    "description": "Xamera är bryggan mellan det sociala studentlivet och leveranskraven inom jobbvärlden. Vi ser till att unga ingenjörer och studenter inom it och teknik inte bara får ett jobb – utan även rätt jobb från början.Vi på Xamera tycker det är extremt viktigt att du hittar ett jobb som matchar din utbildning, men vi tycker att det är minst lika viktigt att du hittar ett jobb som matchar din personlighet och dina visioner.",
+    "title": "HEM - Xamera",
+    "public": false,
+    "userId": "dKqt89BqzPgHzOq1wpva8rqMzmt2",
+    "url": "https://xamera.se/",
+    "image": "https://n5d5g3c8.rocketcdn.me/wp-content/uploads/2020/09/cropped-logga-180x180.png",
+    "createdAt": {
+      "seconds": 1624571332,
+      "nanoseconds": 90000000
+    }
+  },
+  {
+    "id": "yeh3jiayO7E8Nf9D4tN4",
+    "public": false,
+    "createdAt": {
+      "seconds": 1624622044,
+      "nanoseconds": 626000000
+    },
+    "url": "https://engulf.teamtailor.com/",
+    "title": "This is Engulf - Engulf",
+    "userId": "dKqt89BqzPgHzOq1wpva8rqMzmt2",
+    "image": "https://media.cdn.teamtailor.com/images/s3/teamtailor-production/gallery_picture-v1/image_uploads/050c4817-5b05-454a-8b9c-bd1508d8ef54/original.jpg",
+    "description": "Engulf is aconsultancy based in Stockholm, Sweden. We provide our customers with experts in their desired field. Our corporate vision is to grow organicallytogether with our dedicated co-workers...."
+  },
+  {
+    "id": "H9F3U0utKoyd6qoOvRk4",
+    "url": "https://sweetalert.js.org/",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "createdAt": {
+      "seconds": 1624681435,
+      "nanoseconds": 41000000
+    },
+    "description": "A beautiful replacement for JavaScript's 'alert'",
+    "image": "",
+    "title": "SweetAlert",
+    "public": true
+  },
+  {
+    "id": "ljaV5roK5jAIAGg4mg6E",
+    "title": "22 CSS Tricks That Can Make You a Layout Ninja",
+    "image": "https://miro.medium.com/max/1200/0*uqh0BJKI9bU3JTXx",
+    "description": "A look at some lesser-known CSS properties",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "public": true,
+    "createdAt": {
+      "seconds": 1624684185,
+      "nanoseconds": 448000000
+    },
+    "url": "https://betterprogramming.pub/22-css-tricks-that-can-make-you-a-layout-ninja-452847fba639"
+  },
+  {
+    "id": "1b6zJrXxezgPCkS0MqnH",
+    "createdAt": {
+      "seconds": 1624744885,
+      "nanoseconds": 468000000
+    },
+    "url": "https://dev.to/tqbit/how-to-create-svg-elements-with-javascript-4mmp",
+    "title": "How to create svg elements with Javascript",
+    "description": "In a nutshell: What are SVGs? If you've ever taken a small image and tried to scale it up...",
+    "image": "https://dev.to/social_previews/article/656921.png",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "public": true
+  },
+  {
+    "id": "pkWn2VOUM9L0J2Papf0N",
+    "public": false,
+    "description": "",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "image": "",
+    "createdAt": {
+      "seconds": 1624773993,
+      "nanoseconds": 800000000
+    },
+    "url": "http://latentflip.com/loupe/?code=JC5vbignYnV0dG9uJywgJ2NsaWNrJywgZnVuY3Rpb24gb25DbGljaygpIHsKICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gdGltZXIoKSB7CiAgICAgICAgY29uc29sZS5sb2coJ1lvdSBjbGlja2VkIHRoZSBidXR0b24hJyk7ICAgIAogICAgfSwgMjAwMCk7Cn0pOwoKY29uc29sZS5sb2coIkhpISIpOwoKc2V0VGltZW91dChmdW5jdGlvbiB0aW1lb3V0KCkgewogICAgY29uc29sZS5sb2coIkNsaWNrIHRoZSBidXR0b24hIik7Cn0sIDUwMDApOwoKY29uc29sZS5sb2coIldlbGNvbWUgdG8gbG91cGUuIik7!!!PGJ1dHRvbj5DbGljayBtZSE8L2J1dHRvbj4=",
+    "title": ""
+  },
+  {
+    "id": "v8i6AxLSg950gQnLZWDq",
+    "title": "JavaScript Getters and Setters - Jack Franklin",
+    "public": true,
+    "description": "For the most part, in JavaScript, what you see is what you get. A value's a value; there are no tricks. Sometimes however, you want a value that's based on some other values: someone's full name, for example, is a concatenation of their first and last names. If you have a person object, and you want the users of that object to be able to set the full, first or last name, and see that change immediately reflected in the other values, you'd conventionally build it with functions:",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "createdAt": {
+      "seconds": 1625649464,
+      "nanoseconds": 719000000
+    },
+    "image": "https://www.jackfranklin.co.uk/images/favicon/apple-touch-icon.png",
+    "url": "https://www.jackfranklin.co.uk/blog/es5-getters-setters/"
+  },
+  {
+    "id": "kNSsi9FQ8RtB3B4nNCVv",
+    "image": "https://dog.ceo/img/dog-fb-preview.jpg",
+    "public": true,
+    "description": "Leaders in the dog and canine business world.",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "createdAt": {
+      "seconds": 1625649527,
+      "nanoseconds": 73000000
+    },
+    "url": "https://dog.ceo/",
+    "title": "Dog CEO. Good Dog Business."
+  },
+  {
+    "id": "h312xjPI7e2DgxFub6cj",
+    "image": "",
+    "description": "match command-line arguments to their help text",
+    "public": true,
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "url": "https://explainshell.com/",
+    "title": "explainshell.com - match command-line arguments to their help text",
+    "createdAt": {
+      "seconds": 1625949411,
+      "nanoseconds": 600000000
+    }
+  },
+  {
+    "id": "b0v6pejARSzwIaneZtgT",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "image": "https://roadmap.sh/brand-square.png",
+    "description": "Community driven roadmaps, articles, guides, quizzes, tips and resources for developers to learn from, identify their career paths, know what they don't know, find out the knowledge gaps, learn and improve.",
+    "public": true,
+    "url": "https://roadmap.sh/",
+    "createdAt": {
+      "seconds": 1625949946,
+      "nanoseconds": 615000000
+    },
+    "title": "Developer Roadmaps"
+  },
+  {
+    "id": "YyOTwIPN8SooEr3owHT3",
+    "description": "This API returns the current number of people in space. When known it also returns the names and spacecraft those people are on. This API takes no inputs.",
+    "public": true,
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "createdAt": {
+      "seconds": 1626109084,
+      "nanoseconds": 355000000
+    },
+    "title": "Open Notify -- API Doc | People In Space Now",
+    "image": "",
+    "url": "http://open-notify.org/Open-Notify-API/People-In-Space/"
+  },
+  {
+    "id": "XBwhGY1woliTWAIOQZd0",
+    "description": "ProgrammableWeb lists dozens of APIs in the Books category, for everything regearding books, including book buying, book sharing, literacy, textbooks, and book reviews. In this article, we detail the top ten book APIs from that category based on the amount of page visits for each API.",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "public": true,
+    "title": "10 Most Popular APIs for Books",
+    "image": "https://www.programmableweb.com/sites/default/files/harrypotter-api_0_0.jpg",
+    "createdAt": {
+      "seconds": 1626331360,
+      "nanoseconds": 91000000
+    },
+    "url": "https://www.programmableweb.com/news/10-most-popular-apis-books/brief/2020/01/26"
+  },
+  {
+    "id": "ja7v3tUKGB8lwbfa1zht",
+    "description": "A comprehensive free SSL test for your public web servers.",
+    "image": "https://ssllabs.com/images/qualys-ssl-labs-logo.png",
+    "title": "SSL Server Test (Powered by Qualys SSL Labs)",
+    "url": "https://www.ssllabs.com/ssltest/",
+    "public": true,
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "createdAt": {
+      "seconds": 1626334985,
+      "nanoseconds": 929000000
+    }
+  },
+  {
+    "id": "q6JafBrnL3D1wVpLvEk2",
+    "image": "https://uploads.sitepoint.com/wp-content/uploads/2021/07/1625989477notion-api.png",
+    "public": true,
+    "url": "https://www.sitepoint.com/notion-api-javascript-sdk/",
+    "description": "You can now extend the Notion app with the new Notion API. Learn how to create an interface that connects Notion to an external database.",
+    "title": "Notion API: Getting Started with Notion's JavaScript SDK - SitePoint",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "createdAt": {
+      "seconds": 1626733216,
+      "nanoseconds": 892000000
+    }
+  },
+  {
+    "id": "zpzHnKqL2nncXyH63WqO",
+    "description": "HTML2jade help you convert a HTML snippet to a Jade/Pug snippet. Useful for testing out how something would look in Jade vs HTML",
+    "title": "HTML to Jade/Pug Converter",
+    "url": "http://html2jade.org/",
+    "createdAt": {
+      "seconds": 1626807379,
+      "nanoseconds": 450000000
+    },
+    "public": true,
+    "image": "",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42"
+  },
+  {
+    "id": "ocGCvYnLgk6T4WP5x5EO",
+    "description": "Random user generator is a FREE API for generating placeholder user information. Get profile photos, names, and more. It's like Lorem Ipsum, for people.",
+    "public": true,
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "image": "",
+    "createdAt": {
+      "seconds": 1626812465,
+      "nanoseconds": 744000000
+    },
+    "title": "Random User Generator | Home",
+    "url": "https://randomuser.me/"
+  },
+  {
+    "id": "Zl211xdm3Yb17D7FGfWI",
+    "public": false,
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "description": "When you are building a new website, it is important to have a good starting foundation. In this article, I will explain what an HTML 5 boilerplate is and how to create a basic template to use in your projects. What is an HTML 5 boilerplate?According to Wikipedia, boilerplate",
+    "url": "https://www.freecodecamp.org/news/basic-html5-template-boilerplate-code-example/amp/",
+    "image": "https://www.freecodecamp.org/news/content/images/2021/07/jackson-so-_t-l5FFH8VA-unsplash.jpg",
+    "createdAt": {
+      "seconds": 1627796556,
+      "nanoseconds": 373000000
+    },
+    "title": "Basic HTML5 Template: Use This HTML Boilerplate as a Starter for Any Web Dev Project"
+  },
+  {
+    "id": "0MRY5HoBjyLFcdMuly8F",
+    "createdAt": {
+      "seconds": 1628160894,
+      "nanoseconds": 261000000
+    },
+    "title": "The hottest startups in Stockholm",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "description": "Stockholm’s startups have a rock-solid foundation of world-class education and engineering talent",
+    "image": "https://media.wired.co.uk/photos/610960a2d37d93e45ddd7147/16:9/w_1280,c_limit/0421-WIRED-Startups7.jpg",
+    "url": "https://www.wired.co.uk/article/stockholm-hottest-startups-2021",
+    "public": true
+  },
+  {
+    "id": "zlmWxNn9RHBo3Ag5ietF",
+    "createdAt": {
+      "seconds": 1628226902,
+      "nanoseconds": 278000000
+    },
+    "url": "https://www.autodraw.com/",
+    "title": "AutoDraw",
+    "image": "http://www.autodraw.com/assets/images/autodraw-shareimage.png",
+    "description": "Fast drawing for everyone. AutoDraw pairs machine learning with drawings from talented artists to help you draw stuff fast.",
+    "public": true,
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42"
+  },
+  {
+    "id": "EMo2tZR6PLdkD6xZQnH8",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "title": "Express application generator",
+    "description": "For earlier Node versions, install the application generator as a global npm package and then launch it:",
+    "image": "https://expressjs.com/images/favicon.png",
+    "createdAt": {
+      "seconds": 1628596467,
+      "nanoseconds": 215000000
+    },
+    "url": "https://expressjs.com/en/starter/generator.html",
+    "public": true
+  },
+  {
+    "id": "UiNxVZbHvJEaMXRHtyo9",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "image": "https://developer.mozilla.org/mdn-social-share.0ca9dbda.png",
+    "createdAt": {
+      "seconds": 1628596555,
+      "nanoseconds": 333000000
+    },
+    "public": true,
+    "url": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/skeleton_website",
+    "title": "Express Tutorial Part 2: Creating a skeleton website - Learn web development | MDN",
+    "description": "You have now created a skeleton website project for the Local Library and verified that it runs using node. Most importantly, you also understand how the project is structured, so you have a good idea where we need to make changes to add routes and views for our local library."
+  },
+  {
+    "id": "ggQDfzHkILbCwDK9ziGn",
+    "createdAt": {
+      "seconds": 1628720624,
+      "nanoseconds": 399000000
+    },
+    "image": "https://vaccinare-covid.gov.ro/wp-content/uploads/2020/12/logo_guvern_coroana.png",
+    "title": "Platforma națională de informare despre vaccinarea COVID-19",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "url": "https://vaccinare-covid.gov.ro/",
+    "description": "Platforma națională de informare cu privire la vaccinarea împotriva COVID-19. Sursa oficială de informare despre vaccinul COVID-19.",
+    "public": false
+  },
+  {
+    "id": "fyIAUTPOFl0DvIcwiCPM",
+    "url": "https://dev.to/bibekkakati/generate-qr-code-in-javascript-2o67",
+    "title": "Generate QR Code In Javascript",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "public": true,
+    "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3G2P5nD---/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l8xr8fszx0jv05z7vujh.png",
+    "createdAt": {
+      "seconds": 1628856988,
+      "nanoseconds": 939000000
+    },
+    "description": "Hello everyone 👋, this is going to be a very short article where I will show how can we generate a QR..."
+  },
+  {
+    "id": "bly5btpPG3IBJya4E0nu",
+    "url": "https://medium.com/geekculture/few-ways-to-generate-qr-code-using-javascript-54b6b5220c4f",
+    "public": true,
+    "image": "https://miro.medium.com/max/1200/1*R63dBXbCQi5LjZhYojtDgQ.jpeg",
+    "createdAt": {
+      "seconds": 1628858169,
+      "nanoseconds": 892000000
+    },
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "title": "Few Ways to Generate QR Code Using JavaScript",
+    "description": "QR Code (Quick Response Code) is the hottest trend or tactic and is getting better than ever. There is a new demand for touchless, frictionless marketing and eCommerce. Using smartphones you can…"
+  },
+  {
+    "id": "r6MBBQs4WQFjQFWWa6lu",
+    "url": "https://www.section.io/engineering-education/how-to-generate-qr-codes-using-nodejs/",
+    "description": "This tutorial will provide the readers a detailed guide on how to generate QR code from URL and Text using Node JS.",
+    "title": "How to Generate QR Code Using Node.js",
+    "createdAt": {
+      "seconds": 1628858520,
+      "nanoseconds": 620000000
+    },
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "image": "https://www.section.io/engineering-education/how-to-generate-qr-codes-using-nodejs/hero.jpg",
+    "public": true
+  },
+  {
+    "id": "Sep3GuzZw2R2oeDSSi4k",
+    "image": "https://dev.to/social_previews/article/797316.png",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "url": "https://dev.to/iainfreestone/10-trending-projects-on-github-for-web-developers-20th-august-2021-2jal",
+    "public": true,
+    "createdAt": {
+      "seconds": 1629522118,
+      "nanoseconds": 791000000
+    },
+    "description": "Trending Projects is available as a weekly newsletter please sign up at Stargazing.dev to ensure you...",
+    "title": "🚀10 Trending projects on GitHub for web developers - 20th August 2021"
+  },
+  {
+    "id": "7XWbggrYPvh1AVJs0Qav",
+    "public": true,
+    "title": "GitHub - public-apis/public-apis: A collective list of free APIs",
+    "url": "https://github.com/public-apis/public-apis",
+    "image": "https://repository-images.githubusercontent.com/54346799/c732f580-c97e-11eb-9ec3-d4dbc81f6315",
+    "createdAt": {
+      "seconds": 1629522287,
+      "nanoseconds": 878000000
+    },
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "description": "A collective list of free APIs. Contribute to public-apis/public-apis development by creating an account on GitHub."
+  },
+  {
+    "id": "Ko9sHAHBsryIYznGhCO0",
+    "createdAt": {
+      "seconds": 1630601455,
+      "nanoseconds": 59000000
+    },
+    "image": "https://css.gg/fav/og2.png",
+    "url": "https://css.gg/",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "public": true,
+    "description": "Pure CSS icons library, Customizable & Retina-Ready built 100% in pure CSS, SVG, SVG Sprite, styled-components, Figma and Adobe XD. Easy integration: Embed, NPM & API",
+    "title": "700+ CSS Icons, Customizable, Retina Ready & API"
+  },
+  {
+    "id": "A7K0gnp4Le7fAZInf8ML",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "description": "1. Cytoscape.js Website -> https://js.cytoscape.org/ An open-source...",
+    "url": "https://dev.to/uiuxarghya/8-node-js-projects-to-keep-an-eye-on-2021-5d9c",
+    "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--m6-PZK8K--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pnoi5qvd6me43fo6lun7.png",
+    "createdAt": {
+      "seconds": 1630867502,
+      "nanoseconds": 909000000
+    },
+    "public": true,
+    "title": "8 Node.js Projects To Keep An Eye On 2021"
+  },
+  {
+    "id": "8G68vdbj6gDUS27LnuQx",
+    "title": "Protips",
+    "image": "https://appliedtechnology.github.io/protips/salt-logo.png",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "description": "This site lists the protips that we shared with students during our courses",
+    "url": "https://appliedtechnology.github.io/protips/",
+    "createdAt": {
+      "seconds": 1631256998,
+      "nanoseconds": 686000000
+    },
+    "public": false
+  },
+  {
+    "id": "tRwVf48OxseLv95a0lcv",
+    "image": "https://cyber-dojo.org/images/cyber-dojo.png",
+    "userId": "tnWeQXIuUZeQrjgDfCoKkHsNV8y2",
+    "title": "cyber-dojo",
+    "createdAt": {
+      "seconds": 1631463221,
+      "nanoseconds": 822000000
+    },
+    "public": true,
+    "description": "Free Online Coding Dojo",
+    "url": "https://cyber-dojo.org/creator/home"
+  },
+  {
+    "id": "81gy7pg4RC1kO1CWtu6X",
+    "title": "Node.js best practices list (July 2021)",
+    "url": "https://dev.to/alexandrefreire/node-js-best-practices-list-july-2021-3p4k",
+    "public": true,
+    "createdAt": {
+      "seconds": 1631685684,
+      "nanoseconds": 913000000
+    },
+    "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hZoNBulP--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rgknb64pga63bv15q80e.png",
+    "description": "Content and all rights reserved to github.com/goldbergyoni/nodebestpractices Node.js Best...",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42"
+  },
+  {
+    "id": "cR0rDs2jv2bX8JLOFSEe",
+    "public": true,
+    "createdAt": {
+      "seconds": 1631736813,
+      "nanoseconds": 704000000
+    },
+    "description": "⚡️The Fullstack React Framework — built on Next.js - GitHub - blitz-js/blitz: ⚡️The Fullstack React Framework — built on Next.js",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "url": "https://github.com/blitz-js/blitz",
+    "title": "GitHub - blitz-js/blitz: ⚡️The Fullstack React Framework — built on Next.js",
+    "image": "https://repository-images.githubusercontent.com/241215865/6df82c80-7044-11eb-9ed0-6f29358d984f"
+  },
+  {
+    "id": "GuqxRVEyDuXC6a0BIwzY",
+    "title": "GitHub - ryanmcdermott/clean-code-javascript: Clean Code concepts adapted for JavaScript",
+    "image": "https://opengraph.githubassets.com/5bdfb5a1cc8d9e22210b97fb2bc2f364d6dc0bfc174454ca3bd4338bfa57ada6/ryanmcdermott/clean-code-javascript",
+    "createdAt": {
+      "seconds": 1631939930,
+      "nanoseconds": 509000000
+    },
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "description": ":bathtub: Clean Code concepts adapted for JavaScript - GitHub - ryanmcdermott/clean-code-javascript: Clean Code concepts adapted for JavaScript",
+    "public": true,
+    "userId": "tnWeQXIuUZeQrjgDfCoKkHsNV8y2"
+  },
+  {
+    "id": "cuOQWNcigKKMA020Hjol",
+    "public": true,
+    "url": "https://dev.to/collins87mbathi/blog-site-api-with-authentication-in-node-express-and-mongodb-59h4",
+    "title": "Blog site API with Authentication in Node, Express and MongoDB",
+    "description": "we are going to build a Blog site Api which has User Authentication using express, node and MongoDb,...",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kxnTrpmD--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kyox46e4lpjoryxftdi7.png",
+    "createdAt": {
+      "seconds": 1635356973,
+      "nanoseconds": 240000000
+    }
+  },
+  {
+    "id": "YlcQd9wvte1JtYJCIFVK",
+    "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1hvstQpL--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t68umi2xkf5fr8g0uol5.png",
+    "url": "https://dev.to/0shuvo0/easiest-way-to-add-multilanguage-in-your-website-4n7",
+    "description": "If you want to scale your website then it'd be a really good idea to add multiple language support in...",
+    "public": true,
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "title": "Easiest way to add multilanguage in your website",
+    "createdAt": {
+      "seconds": 1635395840,
+      "nanoseconds": 46000000
+    }
+  },
+  {
+    "id": "3CTagFPU9we4Op1Dn5q8",
+    "image": "https://miro.medium.com/max/1200/1*5lLGYJXaxAKqdevef94-QQ.jpeg",
+    "url": "https://faun.pub/deploying-website-to-aws-s3-w-github-actions-279998db5dae",
+    "userId": "tnWeQXIuUZeQrjgDfCoKkHsNV8y2",
+    "description": "Prerequisites",
+    "title": "Deploying Website to AWS S3 w/ GitHub Actions",
+    "public": true,
+    "createdAt": {
+      "seconds": 1635413383,
+      "nanoseconds": 429000000
+    }
+  },
+  {
+    "id": "qBgN8CqVxIvwfks92DWl",
+    "url": "https://github.com/remix-run/react-router/blob/main/docs/getting-started/tutorial.md",
+    "public": true,
+    "userId": "tnWeQXIuUZeQrjgDfCoKkHsNV8y2",
+    "createdAt": {
+      "seconds": 1636053971,
+      "nanoseconds": 731000000
+    },
+    "image": "https://opengraph.githubassets.com/25dfbd12384f86a8e99e3a6ece33dd4e56f3fde8dcca134ae8d1448049c00cc8/remix-run/react-router",
+    "title": "react-router/tutorial.md at main · remix-run/react-router",
+    "description": "Declarative routing for React. Contribute to remix-run/react-router development by creating an account on GitHub."
+  },
+  {
+    "id": "RH1bo5kX1NBxMFApdvFG",
+    "public": true,
+    "description": "W3Schools offers free online tutorials, references and exercises in all the major languages of the web. Covering popular subjects like HTML, CSS, JavaScript, Python, SQL, Java, and many, many more.",
+    "url": "https://www.w3schools.com/react/react_forms.asp",
+    "image": "https://www.w3schools.com/images/w3schools_logo_436_2.png",
+    "userId": "tnWeQXIuUZeQrjgDfCoKkHsNV8y2",
+    "title": "React Forms",
+    "createdAt": {
+      "seconds": 1636054933,
+      "nanoseconds": 833000000
+    }
+  },
+  {
+    "id": "5ss3ImIpcYLQyhXH1WJi",
+    "image": "https://www.w3schools.com/images/w3schools_logo_436_2.png",
+    "url": "https://www.w3schools.com:443/react/react_useeffect.asp",
+    "public": true,
+    "description": "W3Schools offers free online tutorials, references and exercises in all the major languages of the web. Covering popular subjects like HTML, CSS, JavaScript, Python, SQL, Java, and many, many more.",
+    "createdAt": {
+      "seconds": 1636055841,
+      "nanoseconds": 590000000
+    },
+    "title": "React useEffect",
+    "userId": "tnWeQXIuUZeQrjgDfCoKkHsNV8y2"
+  },
+  {
+    "id": "EQ8rTE3svXfmNPpVRxOM",
+    "public": true,
+    "description": "W3Schools offers free online tutorials, references and exercises in all the major languages of the web. Covering popular subjects like HTML, CSS, JavaScript, Python, SQL, Java, and many, many more.",
+    "userId": "tnWeQXIuUZeQrjgDfCoKkHsNV8y2",
+    "image": "https://www.w3schools.com/images/w3schools_logo_436_2.png",
+    "title": "React useRef Hook",
+    "url": "https://www.w3schools.com/react/react_useref.asp",
+    "createdAt": {
+      "seconds": 1636056111,
+      "nanoseconds": 833000000
+    }
+  },
+  {
+    "id": "gPKrvSpjSv8n6bauDjqJ",
+    "image": "https://www.w3schools.com/images/w3schools_logo_436_2.png",
+    "public": true,
+    "userId": "tnWeQXIuUZeQrjgDfCoKkHsNV8y2",
+    "url": "https://www.w3schools.com/react/react_customhooks.asp",
+    "description": "W3Schools offers free online tutorials, references and exercises in all the major languages of the web. Covering popular subjects like HTML, CSS, JavaScript, Python, SQL, Java, and many, many more.",
+    "title": "React Custom Hooks",
+    "createdAt": {
+      "seconds": 1636056241,
+      "nanoseconds": 931000000
+    }
+  },
+  {
+    "id": "f4mfrs0vdVG9IMPEbBVm",
+    "image": "https://www.w3schools.com/images/w3schools_logo_436_2.png",
+    "public": true,
+    "description": "W3Schools offers free online tutorials, references and exercises in all the major languages of the web. Covering popular subjects like HTML, CSS, JavaScript, Python, SQL, Java, and many, many more.",
+    "createdAt": {
+      "seconds": 1636056986,
+      "nanoseconds": 570000000
+    },
+    "title": "React Lifecycle",
+    "url": "https://www.w3schools.com/react/react_lifecycle.asp",
+    "userId": "tnWeQXIuUZeQrjgDfCoKkHsNV8y2"
+  },
+  {
+    "id": "qlvMqB8I679Y2CwryoCO",
+    "image": "https://www.opcito.com/hubfs/Hooks%20in%20React-1.png#keepProtocol",
+    "description": "This blog focuses on how the React Hooks work and how the transition happens from the class components to the functional components along with React Lifecycle Components.",
+    "title": "Lifecycle methods and Hooks in React",
+    "public": true,
+    "url": "https://www.opcito.com/blogs/lifecycle-methods-and-hooks-in-react",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "createdAt": {
+      "seconds": 1636100277,
+      "nanoseconds": 273000000
+    }
+  },
+  {
+    "id": "70GEcJUMUH3fE1Hr9Jam",
+    "description": "Automated testing is an important yet often overlooked or skipped part of development. It's a shame because adding unit testing to React apps is easy!",
+    "title": "Testing React.js Apps",
+    "public": true,
+    "url": "https://academind.com/tutorials/testing-react-apps",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "image": "https://res.cloudinary.com/academind-gmbh/image/upload/c_fit,w_1600,h_900/v1/academind.com/content/tutorials/testing-react-apps/react-testing",
+    "createdAt": {
+      "seconds": 1636182940,
+      "nanoseconds": 67000000
+    }
+  },
+  {
+    "id": "QFWGTaxXSAIebr5uE9E2",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "url": "https://remix.run/blog/react-router-v6",
+    "image": "https://remix.run/blog-images/social/react-router-v6.jpg",
+    "createdAt": {
+      "seconds": 1636444472,
+      "nanoseconds": 622000000
+    },
+    "description": "This release has been a long time coming. The last time we released a major breaking API change was over four years ago in March 2017 when we released version 4. Some of you probably weren't even born then. Needless to say, a LOT has happened since that time:",
+    "public": true,
+    "title": "React Router v6"
+  },
+  {
+    "id": "quSlB4Zdv0hBDe76ZsRW",
+    "title": "React and Node.js: Build a Full Stack App From Development to Production in 5 Minutes",
+    "url": "https://medium.com/swlh/react-and-node-js-build-a-full-stack-app-from-development-to-production-in-5-minutes-a03bc019df6b",
+    "public": true,
+    "image": "https://miro.medium.com/max/1200/1*lHQHd0ZTmQGAf5qY2JzQMw.png",
+    "createdAt": {
+      "seconds": 1636447005,
+      "nanoseconds": 133000000
+    },
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "description": "In this article, I will show you how to create a Full Stack Web Application from development to production. I will show you how to…"
+  },
+  {
+    "id": "Ey769ss1edKyY7XqYPKh",
+    "description": "Preview Web links with our Free RESTful API service. Get Detailed JSON Response for any URL.",
+    "image": "https://www.linkpreview.net/images/preview.png",
+    "createdAt": {
+      "seconds": 1636524506,
+      "nanoseconds": 851000000
+    },
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "title": "LinkPreview - Documentation",
+    "url": "https://www.linkpreview.net/docs/",
+    "public": false
+  },
+  {
+    "id": "1LBfOmhON3xgJoRpDFVd",
+    "public": true,
+    "title": "Redux Basics Explained From A Beginner's Perspective",
+    "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--K5mzUUOL--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/0lruq99o9z25bx4r5gm0.png",
+    "createdAt": {
+      "seconds": 1636792430,
+      "nanoseconds": 304000000
+    },
+    "description": "Throughout last week, I had my first taste of Redux. During this time, we implemented Redux with Reac...",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "url": "https://dev.to/dylanmesty/redux-basics-explained-from-a-beginner-s-perspective-abm"
+  },
+  {
+    "id": "zbSsUyrAtX7SUVjdRoIA",
+    "url": "https://github.com/RobertBattaglia/ToDo",
+    "description": "ToDo App React Redux Express Mongo. Contribute to RobertBattaglia/ToDo development by creating an account on GitHub.",
+    "createdAt": {
+      "seconds": 1637172575,
+      "nanoseconds": 291000000
+    },
+    "title": "GitHub - RobertBattaglia/ToDo: ToDo App React Redux Express Mongo",
+    "image": "https://opengraph.githubassets.com/1207d3cb99143e99ea304d4c160821ecaf18fb8b1a83087a68e0d0018d2e042e/RobertBattaglia/ToDo",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "public": false
+  },
+  {
+    "id": "DzCwVbcjaIqDKTDqtEh0",
+    "createdAt": {
+      "seconds": 1637443458,
+      "nanoseconds": 519000000
+    },
+    "public": true,
+    "title": "Understanding And Implementing Password Hashing In NodeJS.",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yGzeU6Sy--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/gkd4lk2l7occjb9ao6dc.jpg",
+    "description": "It is the user's responsibility to have a strong password, but as a developer, it is our responsibi...",
+    "url": "https://dev.to/aditya278/understanding-and-implementing-password-hashing-in-nodejs-2m84"
+  },
+  {
+    "id": "9u2seUnY6mUAnb5spCVT",
+    "description": "This article explains when to use SQL or NoSQL databases and further provides a detailed comparison between both.",
+    "title": "SQL vs NoSQL: when to use?",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "image": "https://www.imaginarycloud.com/blog/content/images/2021/03/SQLvsNoSQL_cover.jpg",
+    "public": true,
+    "url": "https://www.imaginarycloud.com/blog/sql-vs-nosql/",
+    "createdAt": {
+      "seconds": 1637561928,
+      "nanoseconds": 543000000
+    }
+  },
+  {
+    "id": "wSUDUpAsE0AGJfSYa7cy",
+    "public": true,
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "image": "https://images.ctfassets.net/23aumh6u8s0i/1qXe6ns222PShhb4TBerff/bb80f7334fbc1804db1a06e8310e74a5/nodejs",
+    "description": "Learn how to use Passport.js to add user authentication to a web app built with Node.js and Express. Secure static sites built with Expre...",
+    "url": "https://auth0.com/blog/create-a-simple-and-secure-node-express-app/",
+    "createdAt": {
+      "seconds": 1637603478,
+      "nanoseconds": 280000000
+    },
+    "title": "Node.js and Express Tutorial: Authentication Using Passport"
+  },
+  {
+    "id": "uYBMt6d2GE0d316iqqFy",
+    "image": "https://express-validator.github.io/img/favicon.png",
+    "title": "Getting Started · express-validator",
+    "public": true,
+    "description": "express-validator is a set of [express.js](http://expressjs.com/) middlewares that wraps",
+    "createdAt": {
+      "seconds": 1637875338,
+      "nanoseconds": 361000000
+    },
+    "url": "https://express-validator.github.io/docs/",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42"
+  },
+  {
+    "id": "N3LeOhaJdk30M9DCgMXz",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "title": "GitHub - piotrwitek/react-redux-typescript-guide: The complete guide to static typing in \"React & Redux\" apps using TypeScript",
+    "createdAt": {
+      "seconds": 1639636391,
+      "nanoseconds": 111000000
+    },
+    "image": "https://opengraph.githubassets.com/3273c98a9089dac546d84aeb1891ab8f8c43d0ad03dcd4f766a9944a81eb18f9/piotrwitek/react-redux-typescript-guide",
+    "description": "The complete guide to static typing in \"React & Redux\" apps using TypeScript - GitHub - piotrwitek/react-redux-typescript-guide: The complete guide to static typing in \"React &am...",
+    "url": "https://github.com/piotrwitek/react-redux-typescript-guide#react--redux-in-typescript---complete-guide",
+    "public": true
+  },
+  {
+    "id": "t45e3Tl5VLNmmJDSfgUR",
+    "createdAt": {
+      "seconds": 1639644102,
+      "nanoseconds": 43000000
+    },
+    "userId": "dKqt89BqzPgHzOq1wpva8rqMzmt2",
+    "image": "https://s3-eu-west-1.amazonaws.com/ttnewsagency-designsystem/TTlogo_left_black.png",
+    "url": "https://tt.se/",
+    "public": false,
+    "description": "Nordens största utbud av bilder, videor, grafik och nyhetsmaterial hos TT Nyhetsbyrån. Köp eller läs mer om våra produkter och tjänster. Besök tt.se",
+    "title": "TT Nyhetsbyrån - Sveriges nationella nyhetsbyrå sedan 1921 - Nyheter - bild"
+  },
+  {
+    "id": "TRCiXlvTwMNGdEjrw3vy",
+    "image": "https://typeofnan.dev/gatsby-plugin-social-card/73eb7828-408b-53c6-9b02-c83f398fe123.jpg",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "title": "Your First React Typescript Project: a Todo List App",
+    "public": false,
+    "description": "This post will walk you through writing a todo app in React with Typescript.",
+    "url": "https://typeofnan.dev/your-first-react-typescript-project-todo-app/",
+    "createdAt": {
+      "seconds": 1639869639,
+      "nanoseconds": 749000000
+    }
+  },
+  {
+    "id": "UPKPCMS8RtkZyE2gSnSF",
+    "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--o7oH7x8F--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pz0fu8sdq4iqtj0o7y5a.png",
+    "description": "I want to start with a question Have you ever wondered how applications such as Messenger, WhatsApp...",
+    "title": "Building ToDo in Real-Time",
+    "url": "https://dev.to/ivanz123/building-todo-in-real-time-3pbl",
+    "public": false,
+    "createdAt": {
+      "seconds": 1639895777,
+      "nanoseconds": 858000000
+    },
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42"
+  },
+  {
+    "id": "M7BAqms3DiTl8GEQfpkc",
+    "description": "In this tutorial, we will be using TypeScript on both sides (server and client) to build a Todo App from scratch with React, NodeJS, Express, and MongoDB. So, let's start by planning the API. API with NodeJS, Express, MongoDB and TypeScriptSetting upCreate a Todo TypeCreate a Todo ModelCreate API controllersGet,",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "createdAt": {
+      "seconds": 1639896911,
+      "nanoseconds": 953000000
+    },
+    "public": false,
+    "title": "How to Build a Todo App with React, TypeScript, NodeJS, and MongoDB",
+    "url": "https://www.google.com/amp/s/www.freecodecamp.org/news/how-to-build-a-todo-app-with-react-typescript-nodejs-and-mongodb/amp/",
+    "image": "https://www.freecodecamp.org/news/content/images/2020/07/cover-1.png"
+  },
+  {
+    "id": "Zj91xJHMYecldixa56nO",
+    "title": "GitHub - mplowey28/reminder-app: reminder-app with TypeScript, React, Node.js, MongoDB, and Socket.io",
+    "public": false,
+    "createdAt": {
+      "seconds": 1639901460,
+      "nanoseconds": 252000000
+    },
+    "description": "reminder-app with TypeScript, React, Node.js, MongoDB, and Socket.io - GitHub - mplowey28/reminder-app: reminder-app with TypeScript, React, Node.js, MongoDB, and Socket.io",
+    "url": "https://github.com/mplowey28/reminder-app",
+    "image": "https://opengraph.githubassets.com/39a02598d9717cf69c9a8cfb01266874d416902190b953269412e374c673d915/mplowey28/reminder-app",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42"
+  },
+  {
+    "id": "PXQbTkQm4pd1KORGSrWe",
+    "createdAt": {
+      "seconds": 1641992896,
+      "nanoseconds": 106000000
+    },
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "url": "https://www.mockaroo.com/",
+    "image": "https://www.mockaroo.com/images/tonic-dark.png",
+    "description": "A free test data generator and API mocking tool - Mockaroo lets you create custom CSV, JSON, SQL, and Excel datasets to test and demo your software.",
+    "title": "Mockaroo - Random Data Generator and API Mocking Tool | JSON / CSV / SQL / Excel",
+    "public": true
+  },
+  {
+    "id": "oLPxLizNhjsTqP18ZtvE",
+    "description": "You can submit your resume by visiting this link. If you know anyone who would be a great fit for this position, please pass the link along. Thanks!",
+    "image": "https://careers.ui.com/images/sharing.jpg",
+    "public": false,
+    "userId": "dKqt89BqzPgHzOq1wpva8rqMzmt2",
+    "createdAt": {
+      "seconds": 1642434928,
+      "nanoseconds": 263000000
+    },
+    "title": "Work at Ubiquiti!",
+    "url": "https://careers.ui.com/locations/Stockholm_Sweden-207"
+  },
+  {
+    "id": "SEPDwsj92AsFSpAAvnNz",
+    "url": "https://www.digitalocean.com/community/tutorials/how-to-add-login-authentication-to-react-applications",
+    "description": "In your React application, you can use authentication to manage which users have access to which pages. In this tutorial, you'll create a React application using a token-based authentication system. You'll create a mock API that will return a user tok",
+    "image": "https://community-cdn-digitalocean-com.global.ssl.fastly.net/variants/QZjeLggG1araX6EadsLCuKyJ/035575f2985fe451d86e717d73691e533a1a00545d7230900ed786341dc3c882",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "createdAt": {
+      "seconds": 1642542844,
+      "nanoseconds": 24000000
+    },
+    "public": true,
+    "title": "How To Add Login Authentication to React Applications | DigitalOcean"
+  },
+  {
+    "id": "0sPLNqfPq2YJjV43dOaD",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "url": "https://medium.com/sysf/introduction-to-iot-with-raspberry-pi-and-node-js-using-rgb-led-lights-77f4750a5ea9",
+    "public": true,
+    "createdAt": {
+      "seconds": 1643227870,
+      "nanoseconds": 283000000
+    },
+    "title": "Introduction to IoT with Raspberry Pi and Node.js using RGB LED lights.",
+    "description": "In this article, we are going to build a circuit of Red, Green and Blue LED lights that can be controlled from a web application using the…",
+    "image": "https://miro.medium.com/max/1200/1*l2XWkfzIctiSJibiUX73og.jpeg"
+  },
+  {
+    "id": "Z1tdplGS7gddTjsJBZng",
+    "image": "https://www.google.com/logos/doodles/2022/lunar-new-year-2022-multiple-countries-6753651837109349-2xa.gif",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "description": "Happy Lunar New Year! #GoogleDoodle",
+    "public": false,
+    "createdAt": {
+      "seconds": 1643755983,
+      "nanoseconds": 318000000
+    },
+    "url": "http://www.google.com/",
+    "title": "Lunar New Year 2022"
+  },
+  {
+    "id": "hXpvU5Vg1CVeZ1VBu2Pm",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "url": "http://www.google.com/",
+    "description": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for.",
+    "title": "Google",
+    "public": false,
+    "image": "http://www.google.com/images/branding/googlelogo/1x/googlelogo_white_background_color_272x92dp.png",
+    "createdAt": {
+      "seconds": 1643792165,
+      "nanoseconds": 671000000
+    }
+  },
+  {
+    "id": "rxhqOmMAdhoYWyu5b1iD",
+    "url": "https://kaffeine.herokuapp.com/",
+    "description": "* Starting August 15, 2015, Heroku requires all free applications to sleep for 6 hours every day. (read more)",
+    "title": "Kaffeine",
+    "image": "https://kaffeine.herokuapp.com/assets/favicon-97b4f232f31be036b410b45269169fe3ff398f6b9a706f3dd8ad422ef5c54b8a.ico",
+    "createdAt": {
+      "seconds": 1643838730,
+      "nanoseconds": 98000000
+    },
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "public": true
+  },
+  {
+    "id": "ejbDcBN5hAaju4l9Nu4c",
+    "createdAt": {
+      "seconds": 1644395378,
+      "nanoseconds": 245000000
+    },
+    "public": true,
+    "image": "https://d15tnd3q55f8nl.cloudfront.net/static/SG_Twilio_Lockup_Social-56f3cfd2f6b0c62422980170d57fac64.png",
+    "title": "Email Delivery Service",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "url": "https://sendgrid.com/",
+    "description": "Delivering your transactional and marketing emails through the world's largest cloud-based email delivery platform. Send with confidence."
+  },
+  {
+    "id": "g0b4G1kDmm8KHnPvgSp3",
+    "public": false,
+    "createdAt": {
+      "seconds": 1644779062,
+      "nanoseconds": 954000000
+    },
+    "image": "https://firecamp.io/defaultSEOImg.png",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "description": "Firecamp is a multi-protocol API development platform. It offers dedcaited GUI clients, tools and services for legacy to modern protocols and styles like Http/Rest, GraphQL, WebSocket, MQTT etc.",
+    "title": "Firecamp, A universal API development platform",
+    "url": "https://firecamp.io/"
+  },
+  {
+    "id": "95lI5EujPWJDspmKHM4j",
+    "url": "https://levelup.gitconnected.com/polling-in-javascript-ab2d6378705a",
+    "image": "https://miro.medium.com/max/1200/1*ZSl-yLC_e7xq63nNYo_Sog.jpeg",
+    "description": "A guide to building your own polling function to query for updates",
+    "createdAt": {
+      "seconds": 1644790600,
+      "nanoseconds": 39000000
+    },
+    "title": "Polling in JavaScript",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "public": false
+  },
+  {
+    "id": "xH88dxug6STNYKX53qyh",
+    "public": false,
+    "image": "https://brianchildress.co/images/BChildress-sm.jpg",
+    "description": "This site is a collection of things",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "url": "https://brianchildress.co/simple-polling-using-settimeout/",
+    "createdAt": {
+      "seconds": 1644791619,
+      "nanoseconds": 864000000
+    },
+    "title": "Simple Polling Solution Using setTimeout()"
+  },
+  {
+    "id": "EZADriddnga4uQLwZwz6",
+    "createdAt": {
+      "seconds": 1644819799,
+      "nanoseconds": 630000000
+    },
+    "image": "https://www.section.io/engineering-education/build-and-dockerize-a-full-stack-react-app-with-nodejs-and-nginx/hero.png",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "description": "In this article, we will build a full-stack web application using React, Node.js, MySQL, and Nginx. We will also dockerize each application, and deploy them.",
+    "url": "https://www.section.io/engineering-education/build-and-dockerize-a-full-stack-react-app-with-nodejs-and-nginx/",
+    "title": "Build and Dockerize a Full-stack React app with Node.js, MySQL and Nginx",
+    "public": false
+  },
+  {
+    "id": "fPoLcpHZXpdo2SsfejqT",
+    "image": "https://miro.medium.com/max/1200/1*696b8c1D3sNERWluJ0G7sA.jpeg",
+    "description": "Create first-class documentation for your APIs with OpenAPI",
+    "title": "How To Document Your REST API With OpenAPI (AKA Swagger)",
+    "url": "https://betterprogramming.pub/how-to-document-your-rest-api-with-openapi-aka-swagger-b0bcc118ebe7",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "public": true,
+    "createdAt": {
+      "seconds": 1645178909,
+      "nanoseconds": 194000000
+    }
+  },
+  {
+    "id": "OJtFghknRJtr4SU9hqbW",
+    "createdAt": {
+      "seconds": 1645530824,
+      "nanoseconds": 741000000
+    },
+    "description": "Install Chrome OS Flex now on your existing hardware and experience the benefits of Chrome OS on your organization's current fleet of PCs or Macs.",
+    "public": true,
+    "image": "https://storage.googleapis.com/chrome-enterprise/img/global/social/chrome-enterprise-fb.png",
+    "url": "https://chromeenterprise.google/os/chromeosflex/",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "title": "Get Chrome OS Flex for PC or Mac - Chrome Enterprise"
+  },
+  {
+    "id": "2HmiO7wjT7kb4zHZZ2Fg",
+    "url": "https://blog.risingstack.com/10-best-practices-for-writing-node-js-rest-apis/",
+    "title": "10 Best Practices for Writing Node.js REST APIs - RisingStack Engineering",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "image": "https://blog.risingstack.com/wp-content/uploads/2021/07/10-best-practices-for-writing-node-js-rest-apis.png",
+    "createdAt": {
+      "seconds": 1648151484,
+      "nanoseconds": 346000000
+    },
+    "description": "In this post we cover best practices for writing Node.js RESTful APIs - including route naming, authentication, API testing or using proper cache headers.",
+    "public": false
+  },
+  {
+    "id": "vgAAahD1N7HJ9FGtt7BQ",
+    "createdAt": {
+      "seconds": 1648914018,
+      "nanoseconds": 790000000
+    },
+    "url": "http://httpbin.org/",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "title": "httpbin.org",
+    "image": "",
+    "description": "A simple HTTP Request & Response Service. Run locally: $ docker run -p 80:80 kennethreitz/httpbin",
+    "public": true
+  },
+  {
+    "id": "uEghU3L6a2Nbs4ZhgLMX",
+    "public": false,
+    "userId": "dKqt89BqzPgHzOq1wpva8rqMzmt2",
+    "description": "We are Sigma Technology Group, a global company with family spirit. Software and Embedded systems development │ IT Infrastructure & DevOps │ Cloud services │ Product information │ Digital transformation.",
+    "title": "Sigma Technology Group | Engineering the digital revolution",
+    "image": "https://sigmatechnology.se/content/uploads/2021/11/Screenshot-3-scaled.jpg",
+    "createdAt": {
+      "seconds": 1649315236,
+      "nanoseconds": 38000000
+    },
+    "url": "https://sigmatechnology.se/"
+  },
+  {
+    "id": "pDxrR6FCI3jwUbxU7HTD",
+    "public": false,
+    "description": "Connect with ESSIQ to stay up to date and get notifications about new job openings",
+    "createdAt": {
+      "seconds": 1649316469,
+      "nanoseconds": 457000000
+    },
+    "userId": "dKqt89BqzPgHzOq1wpva8rqMzmt2",
+    "title": "ESSIQ – Connect",
+    "image": "https://media.cdn.teamtailor.com/images/s3/teamtailor-production/favicon_apple-v3/image_uploads/dffba0c9-2231-43af-b9aa-444f9e1f449f/original.icon",
+    "url": "https://careers.essiq.se/connect"
+  },
+  {
+    "id": "xx3Pr5iDudJDGnX6gL8k",
+    "description": "Är du redo för en ny utmaning? Ansök om jobb på Sveriges största jämförelsetjänst för lån. Sidan uppdateras med lediga tjänster & du kan även ansöka spontant.",
+    "image": "https://se.lendocdn.com/v4/img/logo_green_200.png",
+    "public": false,
+    "userId": "dKqt89BqzPgHzOq1wpva8rqMzmt2",
+    "createdAt": {
+      "seconds": 1649316616,
+      "nanoseconds": 174000000
+    },
+    "title": "Karriär - Lediga jobb på Lendo",
+    "url": "https://www.lendo.se/om-lendo/karriar"
+  },
+  {
+    "id": "am4nLBpIwqQOsDvQhUDx",
+    "public": false,
+    "url": "https://symphony.com/",
+    "createdAt": {
+      "seconds": 1649400768,
+      "nanoseconds": 661000000
+    },
+    "description": "Symphony is the most secure and compliant markets’ infrastructure and technology platform, where solutions are built or integrated to standardize, automate and innovate financial services workflows. It is a vibrant community of over half a million financial professionals with a trusted directory and serves over 1000 institutions. Symphony is powering over 2,000 community built applications and bots.",
+    "image": "https://symphony.com/wp-content/uploads/2022/01/SYM-S-logo-640.png",
+    "userId": "dKqt89BqzPgHzOq1wpva8rqMzmt2",
+    "title": "Symphony - Identify Connect Make work flow."
+  },
+  {
+    "id": "dfHEVR2zc5m8O5YaGfaf",
+    "description": "A step-by-step guide on how to configure an ExpressJS application with Winston and Morgan loggers using Typescript",
+    "url": "https://levelup.gitconnected.com/better-logs-for-expressjs-using-winston-and-morgan-with-typescript-1c31c1ab9342",
+    "image": "https://miro.medium.com/max/1200/1*2ogNUg1KbGDWry3Fkk-lgg.jpeg",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "title": "Better logs for ExpressJS using Winston and Morgan with Typescript",
+    "createdAt": {
+      "seconds": 1651649776,
+      "nanoseconds": 378000000
+    },
+    "public": true
+  },
+  {
+    "id": "2XlY6SHEz68lcQnecO9W",
+    "public": false,
+    "url": "https://www.volvocars.com/intl",
+    "title": "International | Volvo Cars",
+    "userId": "dKqt89BqzPgHzOq1wpva8rqMzmt2",
+    "description": "Welcome to the international site of Volvo Cars. Explore and design your favorite Volvo SUV, estate and sedan today.",
+    "image": "https://www.volvocars.com/static/shared/images/favicons/apple-touch-icon-precomposed-180x180.v2.png",
+    "createdAt": {
+      "seconds": 1652865263,
+      "nanoseconds": 655000000
+    }
+  },
+  {
+    "id": "WH9gFtYAeRdn2nkgyBtQ",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "createdAt": {
+      "seconds": 1653112091,
+      "nanoseconds": 215000000
+    },
+    "url": "https://www.gheorghetarcea.com/",
+    "image": "https://images.unsplash.com/photo-1449157291145-7efd050a4d0e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+    "public": false,
+    "title": "Gheorghe Tarcea",
+    "description": "tech enthusiast passionate about programming and how things work"
+  },
+  {
+    "id": "lPnt7D80XHs64T4180CV",
+    "image": "https://www.gheorghetarcea.com/img/tarcea.jpeg",
+    "public": false,
+    "description": "tech enthusiast passionate about programming and how things work",
+    "url": "https://www.gheorghetarcea.com/",
+    "title": "Gheorghe Tarcea",
+    "createdAt": {
+      "seconds": 1653112464,
+      "nanoseconds": 155000000
+    },
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42"
+  },
+  {
+    "id": "ohMMVt2l7a8L9tpBueij",
+    "createdAt": {
+      "seconds": 1653381350,
+      "nanoseconds": 960000000
+    },
+    "image": "https://uploads-ssl.webflow.com/612f44294576668c6cabab7f/6130991996142d60e82bb1bb_Graph-img_01.png",
+    "public": false,
+    "title": "Refensa — Digital Referenstagning",
+    "url": "https://www.refensa.se/",
+    "description": "Automatisera dina referenstagningar med Refensa. Säkert, enkelt och snyggt. Referenstagning på rätt sätt.",
+    "userId": "dKqt89BqzPgHzOq1wpva8rqMzmt2"
+  },
+  {
+    "id": "mHfvuoMc3HYrlyiEoTx3",
+    "description": "GitHub is where over 83 million developers shape the future of software, together. Contribute to the open source community, manage your Git repositories, review code like a pro, track bugs and feat...",
+    "url": "https://github.com/",
+    "userId": "HGj41he1CINKms50jNWtukV4hVF2",
+    "public": true,
+    "image": "https://github.githubassets.com/images/modules/site/social-cards/github-social.png",
+    "title": "GitHub: Where the world builds software",
+    "createdAt": {
+      "seconds": 1657264058,
+      "nanoseconds": 322000000
+    }
+  },
+  {
+    "id": "fNPPwlAXYtCQbiICWTN1",
+    "title": "Jest",
+    "description": "Make tests which keep track of large objects with ease. Snapshots live either alongside your tests, or embedded inline.",
+    "userId": "HGj41he1CINKms50jNWtukV4hVF2",
+    "url": "https://jestjs.io/",
+    "image": "https://jestjs.io/img/opengraph.png",
+    "createdAt": {
+      "seconds": 1657264104,
+      "nanoseconds": 993000000
+    },
+    "public": true
+  },
+  {
+    "id": "zDFdDlnx1BaqF9ZMTurK",
+    "public": true,
+    "url": "https://www.prisma.io/docs",
+    "description": "Get started with Prisma in the official documentation, and learn more about all Prisma's features with reference documentation, guides, and more.",
+    "userId": "HGj41he1CINKms50jNWtukV4hVF2",
+    "image": "https://www.prisma.io/docs/social/docs-social.png",
+    "title": "Prisma Documentation | Concepts, Guides, and Reference",
+    "createdAt": {
+      "seconds": 1657264140,
+      "nanoseconds": 258000000
+    }
+  },
+  {
+    "id": "292EUYSuepRWEnyk0XOz",
+    "description": "Jest is a delightful JavaScript Testing Framework with a focus on simplicity.",
+    "image": "https://jestjs.io/img/opengraph.png",
+    "createdAt": {
+      "seconds": 1658430146,
+      "nanoseconds": 303000000
+    },
+    "public": false,
+    "title": "Jest · 🃏 Delightful JavaScript Testing",
+    "userId": "tnWeQXIuUZeQrjgDfCoKkHsNV8y2",
+    "url": "https://jestjs.io/"
+  },
+  {
+    "id": "2F2YunIZac6AtyqSaQwI",
+    "description": "Squoosh is the ultimate image optimizer that allows you to compress and compare images with different codecs in your browser.",
+    "image": "https://squoosh.app/c/icon-large-maskable-c2078ced.png",
+    "public": false,
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "url": "https://squoosh.app/",
+    "createdAt": {
+      "seconds": 1658490462,
+      "nanoseconds": 593000000
+    },
+    "title": "Squoosh"
+  },
+  {
+    "id": "XTLKQxeghaWY0Xy6pqVg",
+    "description": "We're the creators of the Elastic (ELK) Stack -- Elasticsearch, Kibana, Beats, and Logstash. Securely and reliably search, analyze, and visualize your data in the cloud or on-prem.",
+    "public": true,
+    "userId": "lpXEJWs2JSOgldNqaN6Ogc1XbpN2",
+    "createdAt": {
+      "seconds": 1658554449,
+      "nanoseconds": 312000000
+    },
+    "title": "Free and Open Search: The Creators of Elasticsearch, ELK & Kibana | Elastic",
+    "url": "https://www.elastic.co/",
+    "image": "https://www.elastic.co/static-res/images/social_media_default.png"
+  },
+  {
+    "id": "ZT6TIgkipB8CSfpuMS4M",
+    "createdAt": {
+      "seconds": 1658847369,
+      "nanoseconds": 133000000
+    },
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "public": false,
+    "url": "https://www.section.io/engineering-education/agora-express-token-server/",
+    "title": "Generating Authentication Token for Agora Applications | Engineering Education (EngEd) Program | Section",
+    "image": "https://www.section.io/engineering-education/agora-express-token-server//engineering-education/agora-express-token-server/hero.jpg",
+    "description": "This tutorial will give readers a detailed guide on how they can implement authentication for the Agora RTC SDK and RTM SDK."
+  },
+  {
+    "id": "UTvwbUZLA64OW9Zo8ofr",
+    "createdAt": {
+      "seconds": 1658950622,
+      "nanoseconds": 828000000
+    },
+    "url": "https://medium.com/@shriya610/webrtc-8a52c2d2baad",
+    "image": "https://miro.medium.com/max/591/1*HPNE3F-4EKs_bXjNTaFWdA.jpeg",
+    "title": "WebRTC. A brief introduction: | by Shriya Ramakrishnan | Medium",
+    "public": false,
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "description": "WebRTC is a method of data transmission between two or more web applications without the need for an intermediary. Data can be in the form of audio, video or any other form of data. It is open-source…"
+  },
+  {
+    "id": "becOAxhKbbJtutL4Zj3y",
+    "public": false,
+    "image": "https://miro.medium.com/fit/c/96/96/1*dmbNkD5D-u45r44go_cf0g.png",
+    "url": "https://medium.com/@shriya610/rtm-rtc-demo-efe9fb9348b3",
+    "description": "In the situation of a pandemic which calls for us to stay indoors and avoid gatherings and social interactions we still require and feel the need to be connected more than ever. In this blog I aim to…",
+    "title": "RTM-RTC demo. In the situation of a pandemic which… | by Shriya Ramakrishnan | Medium",
+    "createdAt": {
+      "seconds": 1658950642,
+      "nanoseconds": 641000000
+    },
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42"
+  },
+  {
+    "id": "K5OzFPMNx0MbPBO3S0sY",
+    "image": "https://careerpuck-unfurl-image-production.s3.us-east-2.amazonaws.com/trustly/trustly.jpg",
+    "description": "Click to hear from the team and see open roles",
+    "title": "Join the team at Trustly",
+    "url": "https://app.careerpuck.com/job-board/trustly",
+    "createdAt": {
+      "seconds": 1661766638,
+      "nanoseconds": 767000000
+    },
+    "public": false,
+    "userId": "dKqt89BqzPgHzOq1wpva8rqMzmt2"
+  },
+  {
+    "id": "mYVWxUvWELD0gWnMS6Tc",
+    "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--r_6FrH43--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6p9g6fa8h6n8w0wfx453.png",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "url": "https://dev.to/meshvpatel18/top-heroku-alternatives-for-free-46g1",
+    "createdAt": {
+      "seconds": 1662501312,
+      "nanoseconds": 582000000
+    },
+    "public": true,
+    "description": "Recently Heroku will shutdown free Heroku Dynos, free Heroku Postgres, and free Heroku Data... Tagged with heroku, webdev, programming.",
+    "title": "Top Heroku Alternatives for free - DEV Community 👩‍💻👨‍💻"
+  },
+  {
+    "id": "vm9pp2LCrf9tVsxkPOXE",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "title": "Frontmatter | Go Bootcamp |  Softcover.io",
+    "image": "https://softcover.s3.amazonaws.com/38/GoBootcamp/images/cover-web.png",
+    "url": "http://www.golangbootcamp.com/book/",
+    "public": true,
+    "description": "Go basics plus practical tips.",
+    "createdAt": {
+      "seconds": 1663152883,
+      "nanoseconds": 744000000
+    }
+  },
+  {
+    "id": "e9rdqL37O7PzTvGEmC3g",
+    "createdAt": {
+      "seconds": 1663575333,
+      "nanoseconds": 383000000
+    },
+    "public": true,
+    "image": "https://pocketbase.io//images/og.png",
+    "description": "Open Source backend in 1 file with realtime database, authentication, file storage and admin dashboard",
+    "url": "https://pocketbase.io/",
+    "title": "",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42"
+  },
+  {
+    "id": "xPCOj6GbXZ4ecjmOLLVb",
+    "createdAt": {
+      "seconds": 1664203851,
+      "nanoseconds": 751000000
+    },
+    "title": "Välkommen till vår karriärsida - Veat AB",
+    "userId": "dKqt89BqzPgHzOq1wpva8rqMzmt2",
+    "url": "https://veat.teamtailor.com/",
+    "public": false,
+    "image": "https://s3-eu-west-1.amazonaws.com/tt-screenshots/ad493272-4876-409f-bd58-4642744bd6ab-facebook.png?update=1655325639",
+    "description": "En snygg och modern karriärsida förbättrar bilden av ert företag som en attraktiv arbetsplats. Presentera kortfattat varför ni är en bra arbetsplats. Kom ihå..."
+  },
+  {
+    "id": "BSCXzC2TYiGeacTP2KO2",
+    "createdAt": {
+      "seconds": 1664203931,
+      "nanoseconds": 362000000
+    },
+    "description": "    The Sensys Gatso Group is a leading global provider of road safety enforcement solutions.\n",
+    "userId": "dKqt89BqzPgHzOq1wpva8rqMzmt2",
+    "title": "\n                    Innovative traffic enforcement solutions\n     | Sensys Gatso\n    ",
+    "image": "https://www.sensysgatso.com//assets/images/logo-sensys-gatso.svg",
+    "url": "https://www.sensysgatso.com/",
+    "public": false
+  },
+  {
+    "id": "WfYkNki2LNNQ1976SpB6",
+    "public": false,
+    "title": "Meitner Skolplattform - Skolans nya helhetslösning",
+    "createdAt": {
+      "seconds": 1665149766,
+      "nanoseconds": 562000000
+    },
+    "description": "Meitner är en heltäckande skolplattform som samlar allt skolan behöver i ett system. Plattformen innefattar både lärplattform & elevregister i ett system. Samla lärplattformen & administrationen i en skolplattform.",
+    "userId": "dKqt89BqzPgHzOq1wpva8rqMzmt2",
+    "url": "https://www.meitner.se/",
+    "image": "https://uploads-ssl.webflow.com/6110d93a5659c1be9726a926/615e03b43ba6c22016277bea_Meitner OG v3.jpg"
+  },
+  {
+    "id": "hzkdUi4EEKP3RnKvJfnm",
+    "url": "https://railway.app/",
+    "public": true,
+    "title": "Railway",
+    "createdAt": {
+      "seconds": 1665587234,
+      "nanoseconds": 366000000
+    },
+    "image": "https://railway.app/og.png",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "description": "Railway is an infrastructure platform where you can provision infrastructure, develop with that infrastructure locally, and then deploy to the cloud."
+  },
+  {
+    "id": "Vf3HywzlsvKlLl8coJQI",
+    "createdAt": {
+      "seconds": 1665587259,
+      "nanoseconds": 653000000
+    },
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "url": "https://render.com/",
+    "image": "https://render.com/og-img.png",
+    "public": true,
+    "description": "Render is a unified cloud to build and run all your apps and websites with free TLS certificates, global CDN, private networks and auto deploys from Git.",
+    "title": "Cloud Application Hosting for Developers | Render"
+  },
+  {
+    "id": "JgLlkHyFPARKJDDtjvGD",
+    "title": "Iris",
+    "public": true,
+    "createdAt": {
+      "seconds": 1667429061,
+      "nanoseconds": 54000000
+    },
+    "description": "The fastest HTTP/2 Go Web Framework. Iris provides a beautifully expressive and easy to use foundation for your next website, API, or distributed app.",
+    "image": "https://www.iris-go.com/images/logo.png",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "url": "https://www.iris-go.com/"
+  },
+  {
+    "id": "2WyjPqWNxuunmBCZDHgz",
+    "image": "https://gofiber.io/assets/images/embed.png",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "url": "https://gofiber.io/",
+    "description": "An Express-inspired web framework written in Go.",
+    "createdAt": {
+      "seconds": 1667429101,
+      "nanoseconds": 637000000
+    },
+    "title": "Fiber",
+    "public": true
+  },
+  {
+    "id": "XcSZC7Yt38IZMdXuHNUW",
+    "url": "https://gin-gonic.com/",
+    "createdAt": {
+      "seconds": 1667429141,
+      "nanoseconds": 709000000
+    },
+    "public": true,
+    "description": "Gin Web Framework",
+    "image": "https://gin-gonic.com/featured-background.jpg",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "title": "Gin Web Framework"
+  },
+  {
+    "id": "wy2DfdV8JvtoiVOvJdFZ",
+    "createdAt": {
+      "seconds": 1667429450,
+      "nanoseconds": 17000000
+    },
+    "description": "The fantastic ORM library for Golang aims to be developer friendly.",
+    "image": "https://img.shields.io/github/stars/go-gorm/gorm?color=1e94de&style=for-the-badge&logo=github",
+    "title": "GORM - The fantastic ORM library for Golang, aims to be developer friendly.",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "url": "https://gorm.io/",
+    "public": true
+  },
+  {
+    "id": "RevdLrgzn2iHa85dOXqu",
+    "image": "https://gokit.io//gokit-logo-header.png",
+    "public": true,
+    "createdAt": {
+      "seconds": 1667431218,
+      "nanoseconds": 156000000
+    },
+    "description": "Go kit - A toolkit for microservices",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "url": "https://gokit.io/",
+    "title": "Go kit - A toolkit for microservices"
+  },
+  {
+    "id": "njRs3Oeeg5dB0KZ0FyzY",
+    "url": "https://tinygo.org/",
+    "title": "TinyGo",
+    "public": true,
+    "createdAt": {
+      "seconds": 1667461109,
+      "nanoseconds": 574000000
+    },
+    "description": "",
+    "image": "https://tinygo.org/images/tinygo-logo.png",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42"
+  },
+  {
+    "id": "LwdJfugRQD3q8Ierti1Q",
+    "url": "https://www.trail.gg/",
+    "description": "No downloads. No installs. Just play.",
+    "public": false,
+    "image": "https://static.trail.gg/opengraph/default.jpg",
+    "title": "Trail – Play games instantly. No downloads. No installs. Just play.",
+    "createdAt": {
+      "seconds": 1667577577,
+      "nanoseconds": 536000000
+    },
+    "userId": "dKqt89BqzPgHzOq1wpva8rqMzmt2"
+  },
+  {
+    "id": "fPGzzdbRCG7O4q2497e7",
+    "description": "",
+    "public": false,
+    "createdAt": {
+      "seconds": 1667577680,
+      "nanoseconds": 268000000
+    },
+    "url": "https://www.cystellar.com/",
+    "image": "https://www.cystellar.com/wp-content/uploads/2018/09/cystellar-logo-square-white-1500x1500.png",
+    "title": "CyStellar – Geospatial Intelligence",
+    "userId": "dKqt89BqzPgHzOq1wpva8rqMzmt2"
+  },
+  {
+    "id": "sZTLAs9Q6mTh4P91KISB",
+    "createdAt": {
+      "seconds": 1667718872,
+      "nanoseconds": 267000000
+    },
+    "description": "We have all heard about JavaScript and Node.js being single-threaded, but what does it mean in... Tagged with javascript, node, beginners, webdev.",
+    "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4U9iPU-P--/c_imagga_scale,f_auto,fl_progressive,h_500,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k2l36khs41oncfwmy3wk.gif",
+    "public": false,
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "url": "https://dev.to/nodedoctors/an-animated-guide-to-nodejs-event-loop-3g62",
+    "title": "An animated guide for Node.js event loop - DEV Community 👩‍💻👨‍💻"
+  },
+  {
+    "id": "nMpmFX0pbFzK2jjGpe4K",
+    "url": "https://github.com/ianstormtaylor/slate",
+    "title": "GitHub - ianstormtaylor/slate: A completely customizable framework for building rich text editors. (Currently in beta.)",
+    "createdAt": {
+      "seconds": 1668113373,
+      "nanoseconds": 421000000
+    },
+    "public": true,
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "description": "A completely customizable framework for building rich text editors. (Currently in beta.) - GitHub - ianstormtaylor/slate: A completely customizable framework for building rich text editors. (Currently in beta.)",
+    "image": "https://opengraph.githubassets.com/fd44915c3f990b31ecaad951946eecdc2fdb9241bf25b76c0b7fea740787d81e/ianstormtaylor/slate"
+  },
+  {
+    "id": "yPbOjvEux3NPN5sN1j6m",
+    "title": "Lexical",
+    "public": true,
+    "description": "An extensible text editor framework that does things differently",
+    "createdAt": {
+      "seconds": 1668162182,
+      "nanoseconds": 445000000
+    },
+    "image": "https://lexical.dev//img/logo.svg",
+    "url": "https://lexical.dev/",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42"
+  },
+  {
+    "id": "3kFoOouKmVZcla5bmm3I",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "image": "https://blog.logrocket.com/wp-content/uploads/2022/11/build-real-time-location-app-node-js-socket-io.png",
+    "url": "https://blog.logrocket.com/building-real-time-location-app-node-js-socket-io/",
+    "title": "Building a real-time location app with Node.js and Socket.IO - LogRocket Blog",
+    "description": "Socket.IO provides data communication for your projects between web clients and Node.js servers in real time.",
+    "public": false,
+    "createdAt": {
+      "seconds": 1668322653,
+      "nanoseconds": 917000000
+    }
+  },
+  {
+    "id": "LoX4ekgcLk1euHev64Wj",
+    "createdAt": {
+      "seconds": 1668807890,
+      "nanoseconds": 313000000
+    },
+    "title": "The Ultimate Node/Docker Setup: Step-by-Step (2022 Update) | by Kevin Wade | Medium",
+    "image": "https://miro.medium.com/max/1200/1*oo1fUCpuHF6Rzao5cI_1cw.png",
+    "description": "Follow along in this step-by-step guide to build a real-world baseline Node setup running in Docker that’s developer-friendly and ready for production-level applications — from scratch! This is…",
+    "url": "https://kevinwwwade.medium.com/the-ultimate-node-docker-setup-step-by-step-2022-update-2927b8ca547c",
+    "public": true,
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42"
+  },
+  {
+    "id": "bCynIGU2e43IAhMfdRdt",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "title": "Setting up a database server on a Raspberry Pi | by Jaime Martín Agüí | Medium",
+    "image": "https://miro.medium.com/max/587/1*DID7amni3krVIpBXm51w1Q.png",
+    "url": "https://medium.com/@jaimemartinagui/setting-up-a-database-server-on-a-raspberry-pi-9a383c32cdce",
+    "public": true,
+    "description": "In order to perform certain tasks on our remote database server we will need to establish an SSH connection to the Raspberry Pi. The first step for this purpose is to enable the remote command line…",
+    "createdAt": {
+      "seconds": 1668844887,
+      "nanoseconds": 434000000
+    }
+  },
+  {
+    "id": "IPjKzoU7V0rY7cequY6z",
+    "url": "https://github.com/public-apis/public-apis",
+    "title": "GitHub - public-apis/public-apis: A collective list of free APIs",
+    "description": "A collective list of free APIs. Contribute to public-apis/public-apis development by creating an account on GitHub.",
+    "createdAt": {
+      "seconds": 1669108686,
+      "nanoseconds": 758000000
+    },
+    "public": true,
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "image": "https://repository-images.githubusercontent.com/54346799/e5ee272c-dfe1-40e5-b66b-b0a36e815254"
+  },
+  {
+    "id": "i5MTHT6ekZqaPVh0P8nE",
+    "public": true,
+    "description": "Hi guys, i wrote this article because to many question to me about how to structuring go, what is the best structure in go, why you code like that, why your code like this, and many more. on the…",
+    "createdAt": {
+      "seconds": 1671432778,
+      "nanoseconds": 65000000
+    },
+    "title": "Best way to structuring golang code | by Aris Haryanto | Dec, 2022 | Medium",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "image": "https://miro.medium.com/max/1200/1*R1SZVXaPp6AxY8vn39TDYg.jpeg",
+    "url": "https://arisharyanto.medium.com/best-way-to-structuring-golang-code-6e619e70ce38"
+  },
+  {
+    "id": "56JHIqQQ5bAkyJUfLWIT",
+    "title": "Build a Node.js gRPC Server and Client: Register and Login User 2022",
+    "createdAt": {
+      "seconds": 1671609964,
+      "nanoseconds": 971000000
+    },
+    "description": "This article will teach you how to create a Node.js gRPC server and client to authenticate a user with JSON Web Tokens using TypeScript, Node.js, PostgreSQL,",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "url": "https://codevoweb.com/build-nodejs-grpc-server-and-client-register-and-login-user/",
+    "public": true,
+    "image": "https://codevoweb.com/wp-content/uploads/2022/07/Build-a-Node.js-gRPC-Server-and-Client-Register-and-Login-User.webp"
+  },
+  {
+    "id": "5YdhkAwetEGyEwWmsfky",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "title": "Getting started with Async requests in Flask using Httpx | by Anand Tripathi | Pythonistas | Medium",
+    "image": "https://miro.medium.com/max/1200/1*2xZ_UC8jTaTOEP_3eqINiw.png",
+    "createdAt": {
+      "seconds": 1672007327,
+      "nanoseconds": 352000000
+    },
+    "description": "Note: For non-members, this article is also available at https://progressstory.com/tech/python/async-requests-with-flask/ Recently Flask has introduced async routes in its 2.0 update. This blog is…",
+    "public": false,
+    "url": "https://medium.com/pythonistas/getting-started-with-async-requests-in-flask-using-httpx-8c2c5e11b831"
+  },
+  {
+    "id": "284Hqp4BBDEEZ9YTekZH",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "createdAt": {
+      "seconds": 1672089885,
+      "nanoseconds": 4000000
+    },
+    "title": "NestJS: Microservices with gRPC, API Gateway, and Authentication — Part 1/2 | by Kevin Vogel | Level Up Coding",
+    "description": "Complete guide on how to develop Microservices with NestJS, TypeScript, and gRPC based on a simple e-commerce project. Including an API Gateway and JWT.",
+    "image": "https://miro.medium.com/max/1200/1*AVGIX8wIVdasgd83azW2Vw.jpeg",
+    "url": "https://levelup.gitconnected.com/nestjs-microservices-with-grpc-api-gateway-and-authentication-part-1-2-650009c03686",
+    "public": false
+  },
+  {
+    "id": "IdTGYjKTavekAlyyMTag",
+    "description": "Have you ever wondered how to join three tables in SQL? It's easy when you know the basics. Joining three tables can be as easy as joining two tables.",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "url": "https://learnsql.com/blog/how-to-join-3-tables-or-more-in-sql/",
+    "title": "   How to Join 3 Tables (or More) in SQL |   LearnSQL.com ",
+    "image": "https://learnsql.com/blog/how-to-join-3-tables-or-more-in-sql/How-to-JOIN-3-Tables.jpg",
+    "public": false,
+    "createdAt": {
+      "seconds": 1672128229,
+      "nanoseconds": 710000000
+    }
+  },
+  {
+    "id": "CkEEiN1FictvM0nIfJZ0",
+    "url": "https://www.dibz.se/",
+    "public": false,
+    "image": "data:image/svg+xml;charset=utf-8,%3Csvg height='1566' width='1105' xmlns='http://www.w3.org/2000/svg' version='1.1'%3E%3C/svg%3E",
+    "title": "Vet du om att det finns hundratals bostadsköer? | dibz",
+    "description": "Dibz är en tjänst som samlar Sveriges digitala köer åt dig, vi börjar med bostadsköer. Gå med i dibz och ställ dig i köerna, vi sköter resten.",
+    "userId": "dKqt89BqzPgHzOq1wpva8rqMzmt2",
+    "createdAt": {
+      "seconds": 1672232643,
+      "nanoseconds": 400000000
+    }
+  },
+  {
+    "id": "hjyvgm8mzd8AKcq4uhkh",
+    "userId": "dKqt89BqzPgHzOq1wpva8rqMzmt2",
+    "url": "https://jobs.redmind.se/",
+    "createdAt": {
+      "seconds": 1673947338,
+      "nanoseconds": 560000000
+    },
+    "description": "We are a product-focused Venture studio. We grow ventures and help big companies innovate like start-ups. We build what's next.",
+    "title": "WE FEEL LIKE WE KNOW YOU A LITTLE ALREADY - Redmind",
+    "image": "https://s3-eu-west-1.amazonaws.com/tt-screenshots/8f7e16fc-2f45-402e-af49-3fd0d2118639-facebook.png?update=1649316346",
+    "public": false
+  },
+  {
+    "id": "ufVTm5PivrjRceU6rbTZ",
+    "description": "We and selected partners use cookies or similar technologies to ensure you get the best experience on the Teamtailor website. With respect to cookies that are not considered necessary (as specified in the Cookie Policy), we and our selected partners may use cookies for the following purposes: personalized website experience, develop and improve products and in some cases targeted advertisement that are based on your interests. You can manage or disable cookies by clicking on \"Manage cookies\" at the bottom of each website page.",
+    "userId": "dKqt89BqzPgHzOq1wpva8rqMzmt2",
+    "image": "https://s3-eu-west-1.amazonaws.com/tt-screenshots/f18a5e1c-92a9-4712-b18b-b9e2ab24596a-facebook.png?update=1661769890",
+    "createdAt": {
+      "seconds": 1673947416,
+      "nanoseconds": 26000000
+    },
+    "title": "Join the Instabox family - Instabox ",
+    "url": "https://www.instabox.work/",
+    "public": false
+  },
+  {
+    "id": "U4bh1q8imJpkR1O8Wbdp",
+    "description": "Vi skapar en värld av möjligheter där alla växer! Hos oss spelar varje medarbetare roll, vi är ett tight team som jobbar hårt och har roligt tillsammans.",
+    "title": "Jobba på Exopen",
+    "public": false,
+    "createdAt": {
+      "seconds": 1674135689,
+      "nanoseconds": 68000000
+    },
+    "userId": "dKqt89BqzPgHzOq1wpva8rqMzmt2",
+    "image": "https://www.exopen.se/hubfs/NY%20Hemsida/Jobba%20p%C3%A5%20Exopen%20%28sida%20om%20oss%29.jpg#keepProtocol",
+    "url": "https://www.exopen.se/jobba-pa-exopen"
+  },
+  {
+    "id": "6WGN2c8YQojwJxt0wS20",
+    "url": "https://openupthecloud.com/start-learning-aws-beginner/",
+    "description": "New to AWS and want to get started learning? Overwhelmed by all the different services and choices? In this article we walk through three tips and walk you through where to get started with AWS.",
+    "image": "https://openupthecloud.com/wp-content/uploads/2019/11/beginneraws-1200x630.png",
+    "createdAt": {
+      "seconds": 1674416114,
+      "nanoseconds": 114000000
+    },
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "public": true,
+    "title": "Where (And How) to Start Learning AWS as a Beginner"
+  },
+  {
+    "id": "35i8ncvexo4KeBeuUPcc",
+    "public": true,
+    "createdAt": {
+      "seconds": 1674462025,
+      "nanoseconds": 102000000
+    },
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "title": "Learn The 6 Fundamentals Of Terraform — In Less Than 20 Minutes",
+    "description": "Today we cover the 6 key concepts of Terraform that you'll need to get up and running. We discuss the language, providers, state and more!",
+    "url": "https://openupthecloud.com/the-six-fundamentals-of-terraform/",
+    "image": "https://openupthecloud.com/wp-content/uploads/2019/08/terraform.png"
+  },
+  {
+    "id": "Fx7OaKsPFKuRUdrt6iSL",
+    "userId": "dKqt89BqzPgHzOq1wpva8rqMzmt2",
+    "public": false,
+    "description": "Vi som jobbar på Redeye är specialister inom Life Science och Technology, har ett djupt aktieintresse och brinner för att hjälpa tillväxtbolag att växa. Någr...",
+    "createdAt": {
+      "seconds": 1675176515,
+      "nanoseconds": 75000000
+    },
+    "url": "https://career.redeye.se/",
+    "title": "Team Redeye - Redeye",
+    "image": "https://s3-eu-west-1.amazonaws.com/tt-screenshots/023d3d11-cc8f-402b-a610-bd0378aec495-facebook.png?update=1606987594"
+  },
+  {
+    "id": "8KHncKjuh7S5RDQfgc94",
+    "createdAt": {
+      "seconds": 1675334621,
+      "nanoseconds": 196000000
+    },
+    "public": false,
+    "image": "https://assets.website-files.com/6125ea9b4e8b29feac75a46f/6141ded806fe6ac7f0d01564_logo-medium.png",
+    "userId": "dKqt89BqzPgHzOq1wpva8rqMzmt2",
+    "title": "Careers at TSS",
+    "url": "https://www.tssab.com/career",
+    "description": "At TSS we are always looking for talented people to join our team. We are proud of the work that we do, and wouldn’t be successful without our awesome team of dedicated people. Join us!"
+  },
+  {
+    "id": "WyZUKm5QlPDC07GSXpdc",
+    "url": "https://mycoolqr.vercel.app/",
+    "createdAt": {
+      "seconds": 1675981404,
+      "nanoseconds": 408000000
+    },
+    "public": true,
+    "image": "https://mycoolqr.vercel.app/img/qricon.png",
+    "description": "Generate your own QR code for any website address",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "title": "QR-generator"
+  },
+  {
+    "id": "YYHx13e7gnMTlVm7FZ91",
+    "description": "Job openings at Viaplay Group",
+    "url": "https://careers.viaplaygroup.com/jobs",
+    "createdAt": {
+      "seconds": 1678090218,
+      "nanoseconds": 420000000
+    },
+    "public": false,
+    "image": "https://s3-eu-west-1.amazonaws.com/tt-screenshots/92a2cf1e-63f4-4efa-bcff-34cf042e227f-facebook.png?update=1652879744",
+    "title": "Careers - Viaplay Group",
+    "userId": "dKqt89BqzPgHzOq1wpva8rqMzmt2"
+  },
+  {
+    "id": "Zd7tYnpOWWPHAqW7NQOM",
+    "image": "https://emoco.com/emoco_logo_og.png",
+    "url": "https://emoco.com/",
+    "title": "Emoco",
+    "description": "Emoco is an automation solution provider. We assist people, companies and organizations in the automation transformation.",
+    "public": false,
+    "createdAt": {
+      "seconds": 1678138913,
+      "nanoseconds": 963000000
+    },
+    "userId": "dKqt89BqzPgHzOq1wpva8rqMzmt2"
+  },
+  {
+    "id": "LKM7c9l2qD8mhPnqBev6",
+    "public": false,
+    "createdAt": {
+      "seconds": 1678177389,
+      "nanoseconds": 396000000
+    },
+    "description": "Working at Sinch means rubbing shoulders with some of the best people in the cloud communications industry. Interested? We'd love to hear from you!",
+    "title": "Careers at Sinch | Come see why you should work here!",
+    "userId": "dKqt89BqzPgHzOq1wpva8rqMzmt2",
+    "image": "https://www.sinch.com/sites/default/files/image/2022-09/careers_link_preview_1200x628.png",
+    "url": "https://www.sinch.com/careers/"
+  },
+  {
+    "id": "HZTyDSaf262xMuDOvBlp",
+    "createdAt": {
+      "seconds": 1678186754,
+      "nanoseconds": 497000000
+    },
+    "url": "https://careers.humly.io/",
+    "image": "https://s3-eu-west-1.amazonaws.com/tt-screenshots/6b5dc764-eadf-45b3-b7d0-33ee4b87fe9f-facebook.png?update=1677678951",
+    "title": "A digital marketplace for teachers and schools - Humly",
+    "description": "Humly wants to be a positive force in society by working with schools and nurseries and helping their children and students reach their full potential. even ...",
+    "userId": "dKqt89BqzPgHzOq1wpva8rqMzmt2",
+    "public": false
+  },
+  {
+    "id": "mur6lKCjlmcARhb4xIrQ",
+    "image": "https://miro.medium.com/v2/resize:fit:1024/1*r40ZYnnjDwdhtI5xDlMt0A.png",
+    "description": "Google Calendar is a time-management and scheduling calendar service; Google Calendar service is widely used by customer around the globe. The beauty of the google is they allow their services to…",
+    "public": true,
+    "title": "Implementation of Google Calendar with React JS and Node JS | by Arunkumar P | Tech Musings",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "createdAt": {
+      "seconds": 1679425944,
+      "nanoseconds": 895000000
+    },
+    "url": "https://techmusings.optisolbusiness.com/implementation-of-google-calendar-with-react-js-and-node-js-19ad7c3b1651"
+  },
+  {
+    "id": "KgQFIUMP1a5SuJ9C0QgZ",
+    "public": true,
+    "url": "https://leaddev.com/technical-decision-making/thorough-team-guide-rfcs",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "createdAt": {
+      "seconds": 1679472928,
+      "nanoseconds": 479000000
+    },
+    "image": "https://leaddev.com/sites/default/files/styles/linkedin_card/public/2021-04/Thorough%20guide%20to%20RFCs.png?itok=083QwcGl",
+    "description": "Defining a process for decision-making",
+    "title": "A thorough team guide to RFCs | LeadDev"
+  },
+  {
+    "id": "xov1aCo7XdFDwNBlsAw9",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "createdAt": {
+      "seconds": 1679586972,
+      "nanoseconds": 657000000
+    },
+    "image": "https://blog.logrocket.com/wp-content/uploads/2021/08/authenticate-access-google-apis-using-oauth-2-0.png",
+    "public": true,
+    "title": "How to authenticate and access Google APIs using OAuth 2.0 - LogRocket Blog",
+    "url": "https://blog.logrocket.com/how-to-authenticate-access-google-apis-using-oauth-2-0/",
+    "description": "Learn how to authenticate with Google using TypeScript. As a practical example, we'll use a refresh token to access the Google Calendar API."
+  },
+  {
+    "id": "16RXnMA0uP6L9v6gmtMF",
+    "description": "Being a modern React developer is not only about understanding the core concepts of React but also about getting well-versed with the whole ecosystem of React. This includes having knowledge and experience with various React libraries which you can use in your application to make your development pr",
+    "createdAt": {
+      "seconds": 1679815598,
+      "nanoseconds": 742000000
+    },
+    "title": "Libraries You Should Know as a React Developer",
+    "image": "https://media.licdn.com/dms/image/D4D12AQERR_fQ4Mt-Sw/article-cover_image-shrink_720_1280/0/1679148770110?e=2147483647&v=beta&t=WGcLk8qfhaXpaVP-KuMUUCv2L6qz4uoS5xEdS33Rse4",
+    "public": true,
+    "url": "https://www.linkedin.com/pulse/libraries-you-should-know-react-developer-kazim-kayhan",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42"
+  },
+  {
+    "id": "8J7dNjt6dINO33TzIrED",
+    "image": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+    "url": "https://stackoverflow.com/questions/68394971/how-to-mock-nestjs-built-in-logger-in-jest",
+    "createdAt": {
+      "seconds": 1680110111,
+      "nanoseconds": 355000000
+    },
+    "title": "How to mock NestJS built-in Logger in Jest - Stack Overflow",
+    "public": true,
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "description": "I have a controller that uses NestJS built-in Logger via dependency injection in constructor of the controller:\n  constructor(private readonly logger: Logger) \n\nI want to be able to mock it in my J..."
+  },
+  {
+    "id": "4NZ2mWMWI8PhVVXV1C0g",
+    "description": "Shashwat Alight                      ... Tagged with github, webdev, javascript, beginners.",
+    "title": "21 Github repositories every developer should bookmark(high value resources) - DEV Community",
+    "createdAt": {
+      "seconds": 1680523320,
+      "nanoseconds": 888000000
+    },
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "url": "https://dev.to/jon_snow789/20-github-repositories-every-developer-should-bookmarkhigh-value-resources-4jm6",
+    "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1ieaH_-4--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qjyx36kpwjyjcr7dgzao.jpg",
+    "public": true
+  },
+  {
+    "id": "MdydASMmuWUhosmQzXcP",
+    "description": "We are changing the way companies work with employer branding and recruiting online. Want to help us make HR heroes? Working at Teamtailor means working in a...",
+    "image": "https://s3-eu-west-1.amazonaws.com/tt-screenshots/4f23d08e-14d7-48ad-a70e-8ba508dd56f3-facebook.png?update=1679329037",
+    "createdAt": {
+      "seconds": 1681720077,
+      "nanoseconds": 372000000
+    },
+    "userId": "dKqt89BqzPgHzOq1wpva8rqMzmt2",
+    "public": false,
+    "title": "Welcome to our career site - Flowertech",
+    "url": "https://flowertech.teamtailor.com/"
+  },
+  {
+    "id": "cdgWHgpsAL9c04PeYyKs",
+    "description": "Docker is an enterprise-ready container platform that enables organizations to seamlessly build, share, and run any application, anywhere. Almost every company is containerizing its applications for…",
+    "title": "Dockerizing React App With NodeJS Backend — Typescript Version | by Bhargav Bachina | Bachina Labs | Medium",
+    "public": false,
+    "createdAt": {
+      "seconds": 1681750787,
+      "nanoseconds": 356000000
+    },
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "image": "https://miro.medium.com/v2/resize:fit:1200/0*voiw3nHSYnBTC04f",
+    "url": "https://medium.com/bb-tutorials-and-thoughts/dockerizing-react-app-with-nodejs-backend-typescript-version-55a40389b0ac"
+  },
+  {
+    "id": "ZCi1tUJ5pNIfyer1k8LS",
+    "description": "As the title states, JavaScript closures have always been a bit of a mystery to me. I have read multiple articles, I have used closures in my work, sometimes I even used a closure without realizing I…",
+    "url": "https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8",
+    "title": "I never understood JavaScript closures | by Olivier De Meulder | DailyJS | Medium",
+    "createdAt": {
+      "seconds": 1682088919,
+      "nanoseconds": 291000000
+    },
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "image": "https://miro.medium.com/v2/resize:fit:560/1*1vMy563vz6LA_67VrzeT9g.png",
+    "public": true
+  },
+  {
+    "id": "NekERfnDExi5M5vWgkK1",
+    "createdAt": {
+      "seconds": 1682364348,
+      "nanoseconds": 186000000
+    },
+    "public": false,
+    "url": "https://jobb.enklare.se/jobs",
+    "userId": "dKqt89BqzPgHzOq1wpva8rqMzmt2",
+    "description": "Lediga jobb på Enklare",
+    "title": "Jobs list - Enklare",
+    "image": "https://images.teamtailor-cdn.com/images/s3/teamtailor-production/gallery_picture-v6/image_uploads/f0794a5e-e38f-4db9-8811-d31f5f65b4da/original.png"
+  },
+  {
+    "id": "Q9Q0Xnwl9Swk0RAy9Wix",
+    "createdAt": {
+      "seconds": 1682367592,
+      "nanoseconds": 74000000
+    },
+    "url": "https://career.mediatool.com/",
+    "title": "🚀 Career site - Mediatool",
+    "description": "We help global brands and agencies digitalise their way of working. Want to help us make marketers into rock-stars? Working at Mediatool means working in a y...",
+    "image": "https://s3-eu-west-1.amazonaws.com/tt-screenshots/a242c2eb-f0ea-4e4b-bd14-c80842c35af6-facebook.png?update=1655324040",
+    "public": false,
+    "userId": "dKqt89BqzPgHzOq1wpva8rqMzmt2"
+  },
+  {
+    "id": "RwJCjf7DZkCdy5dd9ibC",
+    "title": "Difference between 'extends' and 'implements' in TypeScript - DEV Community",
+    "url": "https://dev.to/danywalls/difference-between-extends-and-implements-in-typescript-32i0",
+    "description": "Today, a friend ask about the difference between extends and implements.    class Media {   format: s... Tagged with typescript, oop.",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "public": true,
+    "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DUAS1_1V--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/d5xd3c8ldbacmcmc9gsf.jpeg",
+    "createdAt": {
+      "seconds": 1682672984,
+      "nanoseconds": 157000000
+    }
+  },
+  {
+    "id": "TzPOg0g0qGOOo2fxJpKW",
+    "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SR5nlXqT--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uzz2jh3tblotzco6h1x5.png",
+    "url": "https://dev.to/arafat4693/learn-zod-in-5-minutes-17pn",
+    "public": true,
+    "description": "Goals of Zod    Validation library (Schema first)  First class typescript support (No need... Tagged with webdev, beginners, tutorial, typescript.",
+    "createdAt": {
+      "seconds": 1682865521,
+      "nanoseconds": 98000000
+    },
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "title": "Learn \"Zod\" In 5 Minutes - DEV Community"
+  },
+  {
+    "id": "ZWtTRGFFbC10mTvGeob2",
+    "title": "A detailed comparison of REST and gRPC | Kreya",
+    "image": "https://kreya.app/thumbnails/rest-vs-grpc.png",
+    "createdAt": {
+      "seconds": 1682873659,
+      "nanoseconds": 86000000
+    },
+    "public": true,
+    "url": "https://kreya.app/blog/rest-vs-grpc/",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "description": "Detailed comparison of REST vs gRPC with advantages and disadvantages"
+  },
+  {
+    "id": "vZUDBk5Aa08p4Nhlma2w",
+    "url": "https://www.nvrmind.se/karriar",
+    "title": "Karriär | Nvrmind",
+    "description": "Med en vass kombination av kreativitet och teknisk kompetens hjälper vi er att nå bättre resultat.",
+    "public": false,
+    "image": "https://nvrmind-craft-media.s3.eu-central-1.amazonaws.com/nvrmind/nvrmind-share.png",
+    "userId": "dKqt89BqzPgHzOq1wpva8rqMzmt2",
+    "createdAt": {
+      "seconds": 1683217473,
+      "nanoseconds": 36000000
+    }
+  },
+  {
+    "id": "STp7wjIpKcG611VbyhLE",
+    "url": "https://svelte.dev/",
+    "public": true,
+    "title": "Svelte • Cybernetically enhanced web apps",
+    "createdAt": {
+      "seconds": 1684699843,
+      "nanoseconds": 519000000
+    },
+    "image": "https://svelte.dev/images/twitter-thumbnail.jpg",
+    "description": "Build boilerplate-free components using languages you already know — HTML, CSS and\n\t\t\t\tJavaScript\n\t\t\t",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42"
+  },
+  {
+    "id": "1KTaC13QCAzc2iFW3l0A",
+    "image": "https://uidesigndaily.com/public/img/og-image.png",
+    "public": true,
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "title": "UI Design Daily | Weekly FREE UI resources straight to your inbox",
+    "url": "https://uidesigndaily.com/",
+    "description": "Free, Open-source UI design resources updated daily.",
+    "createdAt": {
+      "seconds": 1684741727,
+      "nanoseconds": 431000000
+    }
+  },
+  {
+    "id": "25gYNrXP8fBFZGfmC0V4",
+    "image": "https://piktiv.com/wp-content/uploads/2023/03/namnlos-design.jpg",
+    "public": false,
+    "createdAt": {
+      "seconds": 1684754074,
+      "nanoseconds": 300000000
+    },
+    "userId": "dKqt89BqzPgHzOq1wpva8rqMzmt2",
+    "title": "Career - Piktiv",
+    "description": "We believe in making the world more intelligent by providing our clients with world class experts, solving hard and important problems within Software Engineering and Business Growth. We exist to be a home for our experts where they can grow alongside our clients and make the world a smarter place.",
+    "url": "https://piktiv.com/en/career/"
+  },
+  {
+    "id": "ihgD0NTowlHTXj9OhMvB",
+    "public": false,
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42",
+    "image": "https://api2.sololearn.com/v2/certificates/CC-F3UXZ7K3/image/png",
+    "description": "Join Now to learn the basics or advance your existing skills",
+    "createdAt": {
+      "seconds": 1684842713,
+      "nanoseconds": 789000000
+    },
+    "url": "https://www.sololearn.com/certificates/CC-F3UXZ7K3",
+    "title": "Sololearn: Learn to Code"
+  },
+  {
+    "id": "LN1jjpNs3J6vf7m6k6QV",
+    "image": "https://s3-eu-west-1.amazonaws.com/tt-screenshots/37652993-ccd4-4484-ba49-870c9528d35e-facebook.png?update=1679928563",
+    "title": "Home - HiQ",
+    "url": "https://career.hiq.se/",
+    "description": " ",
+    "userId": "dKqt89BqzPgHzOq1wpva8rqMzmt2",
+    "createdAt": {
+      "seconds": 1686050369,
+      "nanoseconds": 405000000
+    },
+    "public": false
+  },
+  {
+    "id": "v0oF5Sd7h0NpMjWHX0u7",
+    "public": false,
+    "url": "https://careers.astrideducation.com/jobs",
+    "userId": "dKqt89BqzPgHzOq1wpva8rqMzmt2",
+    "title": "Current job openings - Astrid Education",
+    "createdAt": {
+      "seconds": 1686050464,
+      "nanoseconds": 451000000
+    },
+    "image": "https://s3-eu-west-1.amazonaws.com/tt-screenshots/758907aa-e90d-4449-9e91-503434293bbe-facebook.png?update=1620143240",
+    "description": "Job openings at Astrid Education"
+  },
+  {
+    "id": "5DRMi47URsNvub1HmitB",
+    "userId": "dKqt89BqzPgHzOq1wpva8rqMzmt2",
+    "createdAt": {
+      "seconds": 1686050569,
+      "nanoseconds": 432000000
+    },
+    "title": "Lediga jobb - Iceberry",
+    "image": "https://s3-eu-west-1.amazonaws.com/tt-screenshots/2199932b-949c-4bb8-84da-7af663f4da75-facebook.png?update=1673448251",
+    "description": "Iceberry is a friendly IT consulting company. We have roles such as developers, testers, UI/UX designers and project managers and we help our customers achie...",
+    "public": false,
+    "url": "https://karriar.iceberry.se/"
+  },
+  {
+    "id": "mXf93uKZGhLZWVng0lD9",
+    "description": "Job openings at Klarna",
+    "userId": "dKqt89BqzPgHzOq1wpva8rqMzmt2",
+    "title": "Klarna",
+    "image": "https://lever-client-logos.s3.us-west-2.amazonaws.com/b27481c8-93c6-4a53-bf7d-43b80fea3cd0-1636536554261.png",
+    "url": "https://jobs.lever.co/klarna/?location=Stockholm, Sweden",
+    "createdAt": {
+      "seconds": 1686128273,
+      "nanoseconds": 605000000
+    },
+    "public": false
+  },
+  {
+    "id": "WOlqyvYomRPWKtGEUSAQ",
+    "url": "https://casa-la-moara-din-gradina.business.site/?utm_source=gmb",
+    "public": true,
+    "title": "Casa \"La Moara Din Gradina\" - Pensiune De Familie în Eftimie Murgu",
+    "description": "Pensiune De Familie în Eftimie Murgu",
+    "createdAt": {
+      "seconds": 1686329619,
+      "nanoseconds": 243000000
+    },
+    "image": "https://lh5.googleusercontent.com/p/AF1QipN2g76ZY-6eI57xSuOtho2UmQUge-I8n8AKXB0v",
+    "userId": "6VXzisUfxxdkkrazgLRQGU1UsX42"
+  }
+]

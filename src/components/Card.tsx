@@ -14,7 +14,7 @@ const Card = ({ card }: { card: Card }) => {
     <div className='bg-violet-50 flex flex-wrap items-center justify-between rounded-lg h-20'>
       <div
         className='w-24  h-full rounded-l-lg bg-center bg-no-repeat bg-cover'
-        style={{ backgroundImage: `url(${image})` }}
+        style={{ backgroundImage: `url(${image || '/no-image-png.webp'})` }}
       ></div>
 
       <div>

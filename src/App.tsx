@@ -6,7 +6,7 @@ const App = () => {
   const [data, setData] = useState<Card[]>([]);
   const fetchJson = async () => {
     try {
-      const response = await fetch('../cards.json');
+      const response = await fetch('../data.json');
       const data = await response.json();
       setData(data);
     } catch (error) {
