@@ -18,7 +18,11 @@ const App = () => {
   }, []);
 
   console.log(data);
-  return <List data={data} />;
+  return (
+    <div className=''>
+      <List data={data} />
+    </div>
+  );
 };
 
 export default App;

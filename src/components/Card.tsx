@@ -10,14 +10,17 @@ const Card = ({ card }: { card: Card }) => {
     return str;
   };
   return (
-    <div className='bg-gray-100 flex flex-wrap items-center justify-between rounded-lg h-20'>
+    <div className='bg-violet-50 flex flex-wrap items-center justify-between rounded-lg h-20'>
       <img src={image} className='w-1/3 h-full rounded-l-lg' />
       <div>
         <p className='text-sm text text-left font-bold '>{short(title, 20)}</p>
         <p className='text-sm text text-left '>www.google.com</p>
       </div>
-      <div className='mr-2 lg:cursor-pointer'>
-        <BsThreeDotsVertical onClick={() => console.log(description)} />
+      <div className='flex flex-nowrap items-center justify-center mr-2 lg:cursor-pointer w-8 h-8 hover:rounded-full hover:bg-violet-200'>
+        <BsThreeDotsVertical
+          className=''
+          onClick={() => console.log(description)}
+        />
       </div>
     </div>
   );
