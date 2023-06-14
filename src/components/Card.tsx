@@ -24,7 +24,8 @@ const Card = ({
     return str;
   };
 
-  const handleDetailsButton = () => {
+  const handleDetailsButton = (e: any) => {
+    e.stopPropagation();
     setShowDetails(id);
     setShow(!show);
   };

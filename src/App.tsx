@@ -19,7 +19,7 @@ const App = () => {
   }, []);
 
   return (
-    <div className=''>
+    <div onClick={() => setShowDetails('')} className='p-8 m-0 w-full h-full'>
       <List
         data={data.sort((a, b) => b.createdAt.seconds - a.createdAt.seconds)}
         showDetails={showDetails}
