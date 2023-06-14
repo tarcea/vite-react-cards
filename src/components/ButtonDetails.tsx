@@ -13,7 +13,7 @@ const ButtonDetails = ({
   return (
     <>
       <div
-        className='absolute top-14 right-1 z-40 w-30 h-20 bg-white flex flex-wrap justify-center content-around rounded drop-shadow-xl'
+        className='absolute top-14 right-1 z-10 w-30 h-20 bg-white flex flex-wrap justify-center content-around rounded drop-shadow-xl'
         onClick={(e) => e.stopPropagation()}
       >
         <div

@@ -8,6 +8,7 @@ const App = () => {
   const [data, setData] = useState<Card[]>([]);
   const [cardId, setCardId] = useState('');
   const [modal, setModal] = useState(false);
+  const [deletedCard, setDeletedCard] = useState<Card>();
 
   const fetchJson = async () => {
     try {
@@ -23,11 +24,13 @@ const App = () => {
   }, []);
 
   const removeCard = () => {
+    const card = data.find((card) => card.id === cardId);
+    setDeletedCard(card);
     setModal(true);
   };
   const reallyRemoveCard = () => {
-    const d = data.filter((card) => card.id !== cardId);
-    setData(d);
+    const cards = data.filter((card) => card.id !== cardId);
+    setData(cards);
   };
 
   return (
@@ -39,8 +42,12 @@ const App = () => {
         removeCard={removeCard}
       />
       <CardCounter counter={data.length} />
-      {modal && (
-        <DeleteModal setModal={setModal} reallyRemoveCard={reallyRemoveCard} />
+      {deletedCard && modal && (
+        <DeleteModal
+          setModal={setModal}
+          reallyRemoveCard={reallyRemoveCard}
+          card={deletedCard}
+        />
       )}
     </div>
   );
