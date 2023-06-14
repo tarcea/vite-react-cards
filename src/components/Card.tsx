@@ -4,12 +4,12 @@ import ButtonDetails from './ButtonDetails';
 
 const Card = ({
   card,
-  showDetails,
-  setShowDetails,
+  cardId,
+  setCardId,
 }: {
   card: Card;
-  showDetails: string;
-  setShowDetails: (value: string) => void;
+  cardId: string;
+  setCardId: (value: string) => void;
 }) => {
   const [show, setShow] = useState(false);
 
@@ -26,11 +26,14 @@ const Card = ({
 
   const handleDetailsButton = (e: ChangeEvent<HTMLInputElement>) => {
     e.stopPropagation();
-    setShowDetails(id);
+    setCardId(id);
     setShow(!show);
   };
   return (
-    <div className='bg-violet-50 flex flex-wrap items-center justify-between rounded-lg h-20 w-full relative hover:shadow-xlg hover:shadow-indigo-800/60 shadow-lg shadow-indigo-400/40 cursor-pointer'>
+    <div
+      className='bg-violet-50 flex flex-wrap items-center justify-between rounded-lg h-20 w-full relative hover:shadow-xlg hover:shadow-indigo-800/60 shadow-lg shadow-indigo-400/40 cursor-pointer'
+      onClick={() => window.open(url, '_blank')}
+    >
       <div
         className='w-24  h-full rounded-l-lg bg-center bg-no-repeat bg-cover'
         style={{ backgroundImage: `url(${image || '/no-image-png.webp'})` }}
@@ -48,11 +51,9 @@ const Card = ({
         className='flex flex-nowrap items-center justify-center mr-2 lg:cursor-pointer w-8 h-8 hover:rounded-full hover:bg-violet-200'
         title='Details'
       >
-        <BsThreeDotsVertical className='' onClick={handleDetailsButton} />
+        <BsThreeDotsVertical onClick={handleDetailsButton} />
       </div>
-      {showDetails === id && show && showDetails && (
-        <ButtonDetails cardUrl={url} />
-      )}
+      {cardId === id && show && cardId && <ButtonDetails cardUrl={url} />}
     </div>
   );
 };

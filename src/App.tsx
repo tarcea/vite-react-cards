@@ -4,7 +4,7 @@ import List from './components/List';
 
 const App = () => {
   const [data, setData] = useState<Card[]>([]);
-  const [showDetails, setShowDetails] = useState('');
+  const [cardId, setCardId] = useState('');
   const fetchJson = async () => {
     try {
       const response = await fetch('/data.json');
@@ -19,11 +19,11 @@ const App = () => {
   }, []);
 
   return (
-    <div onClick={() => setShowDetails('')} className='p-8 m-0 w-full h-full'>
+    <div onClick={() => setCardId('')} className='p-8 m-0 w-full h-full'>
       <List
         data={data.sort((a, b) => b.createdAt.seconds - a.createdAt.seconds)}
-        showDetails={showDetails}
-        setShowDetails={setShowDetails}
+        cardId={cardId}
+        setCardId={setCardId}
       />
     </div>
   );
