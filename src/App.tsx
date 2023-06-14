@@ -1,11 +1,13 @@
 import { useEffect, useState } from 'react';
 import './App.css';
 import CardCounter from './components/CardCounter';
+import DeleteModal from './components/DeleteModal';
 import List from './components/List';
 
 const App = () => {
   const [data, setData] = useState<Card[]>([]);
   const [cardId, setCardId] = useState('');
+  const [modal, setModal] = useState(false);
 
   const fetchJson = async () => {
     try {
@@ -21,6 +23,9 @@ const App = () => {
   }, []);
 
   const removeCard = () => {
+    setModal(true);
+  };
+  const reallyRemoveCard = () => {
     const d = data.filter((card) => card.id !== cardId);
     setData(d);
   };
@@ -34,6 +39,9 @@ const App = () => {
         removeCard={removeCard}
       />
       <CardCounter counter={data.length} />
+      {modal && (
+        <DeleteModal setModal={setModal} reallyRemoveCard={reallyRemoveCard} />
+      )}
     </div>
   );
 };
