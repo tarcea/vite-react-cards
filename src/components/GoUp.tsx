@@ -17,14 +17,16 @@ const GoUp = () => {
   }, []);
 
   return (
-    scroll?.y > 30 && (
-      <div
-        className='fixed bottom-12 right-12 w-16 h-16 bg-violet-400/70 rounded-full text-violet-800 flex items-center justify-center cursor-pointer'
-        onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
-      >
-        <ImArrowUp />
-      </div>
-    )
+    <>
+      {scroll?.y > 30 && (
+        <div
+          className='fixed bottom-12 right-12 w-16 h-16 bg-violet-400/70 rounded-full text-violet-800 flex items-center justify-center cursor-pointer'
+          onClick={() => window.scrollTo({ top: 0, behavior: 'auto' })}
+        >
+          <ImArrowUp />
+        </div>
+      )}
+    </>
   );
 };
 
