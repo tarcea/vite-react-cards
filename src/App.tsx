@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react';
 import './App.css';
 import CardCounter from './components/CardCounter';
 import DeleteModal from './components/DeleteModal';
+import GoUp from './components/GoUp';
 import List from './components/List';
 
 const App = () => {
@@ -42,6 +43,7 @@ const App = () => {
         removeCard={removeCard}
       />
       <CardCounter counter={data.length} />
+      <GoUp />
       {deletedCard && modal && (
         <DeleteModal
           setModal={setModal}
