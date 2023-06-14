@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { ChangeEvent, useState } from 'react';
 import { BsThreeDotsVertical } from 'react-icons/bs';
 import ButtonDetails from './ButtonDetails';
 
@@ -24,7 +24,7 @@ const Card = ({
     return str;
   };
 
-  const handleDetailsButton = (e: any) => {
+  const handleDetailsButton = (e: ChangeEvent<HTMLInputElement>) => {
     e.stopPropagation();
     setShowDetails(id);
     setShow(!show);
