@@ -29,7 +29,7 @@ const Card = ({
     setShow(!show);
   };
   return (
-    <div className='bg-violet-50 flex flex-wrap items-center justify-between rounded-lg h-20 w-full relative hover:shadow-xlg hover:shadow-indigo-800/60 shadow-lg shadow-indigo-500/40 cursor-pointer'>
+    <div className='bg-violet-50 flex flex-wrap items-center justify-between rounded-lg h-20 w-full relative hover:shadow-xlg hover:shadow-indigo-800/60 shadow-lg shadow-indigo-400/40 cursor-pointer'>
       <div
         className='w-24  h-full rounded-l-lg bg-center bg-no-repeat bg-cover'
         style={{ backgroundImage: `url(${image || '/no-image-png.webp'})` }}
