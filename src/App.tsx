@@ -6,6 +6,7 @@ import List from './components/List';
 const App = () => {
   const [data, setData] = useState<Card[]>([]);
   const [cardId, setCardId] = useState('');
+
   const fetchJson = async () => {
     try {
       const response = await fetch('/data.json');
