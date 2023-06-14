@@ -1,13 +1,15 @@
 import TextButton from './TextButton';
 
-const ButtonDetails = ({ cardUrl }: { cardUrl: string }) => {
-  const removeCard = () => {
-    console.log('remove card');
-  };
-
+const ButtonDetails = ({
+  cardUrl,
+  removeCard,
+}: {
+  cardUrl: string;
+  removeCard: () => void;
+}) => {
   return (
     <div
-      className='absolute top-14 right-1 z-40 w-20 h-20 bg-white flex flex-wrap justify-center content-around rounded drop-shadow-xl'
+      className='absolute top-14 right-1 z-40 w-30 h-20 bg-white flex flex-wrap justify-center content-around rounded drop-shadow-xl'
       onClick={(e) => e.stopPropagation()}
     >
       <div

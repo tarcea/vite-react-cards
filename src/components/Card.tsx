@@ -6,10 +6,12 @@ const Card = ({
   card,
   cardId,
   setCardId,
+  removeCard,
 }: {
   card: Card;
   cardId: string;
   setCardId: (value: string) => void;
+  removeCard: () => void;
 }) => {
   const [show, setShow] = useState(false);
 
@@ -48,12 +50,14 @@ const Card = ({
         </p>
       </div>
       <div
-        className='flex flex-nowrap items-center justify-center mr-2 lg:cursor-pointer w-8 h-8 hover:rounded-full hover:bg-violet-200'
+        className='flex flex-nowrap items-center justify-center lg:cursor-pointer w-10 h-10 hover:rounded-full hover:bg-violet-200'
         title='Details'
       >
         <BsThreeDotsVertical onClick={handleDetailsButton} />
       </div>
-      {cardId === id && show && cardId && <ButtonDetails cardUrl={url} />}
+      {cardId === id && show && cardId && (
+        <ButtonDetails cardUrl={url} removeCard={removeCard} />
+      )}
     </div>
   );
 };
