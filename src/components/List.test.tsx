@@ -1,25 +1,40 @@
+// import { render, screen } from '@testing-library/react';
+// import List from './List';
+
 // const data = [
 //   {
-//     id: 1,
-//     title: 'Develop & test React components in isolation',
+//     id: 'wbPtlW4iSKGdeO1rNCtN',
+//     createdAt: {
+//       seconds: 1621508278,
+//       nanoseconds: 17000000,
+//     },
+//     public: true,
+//     userId: '6VXzisUfxxdkkrazgLRQGU1UsX42',
 //     image:
-//       'https://res.cloudinary.com/practicaldev/image/fetch/s--tQrhntbo--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mwpnd4ztvt2yme2zyipl.jpg',
+//       'https://res.cloudinary.com/practicaldev/image/fetch/s--lfrX7X9Y--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/b01y84jhkv2rw9s74fux.jpg',
+//     title: '⚗️ React Redux CRUD app for beginners [with Hooks]',
+//     url: 'https://dev.to/sanderdebr/react-redux-crud-app-for-beginners-with-hooks-2hja',
 //     description:
-//       "Writing front-end code is easy. But writing reliable front-end code? That's tough. Modern UIs are...",
-//     url: 'https://dev.to/dhaiwat10/develop-test-react-components-in-isolation-3714',
+//       'Redux has been and still is the most used library for managing state within React applications. It pr...',
 //   },
 //   {
-//     id: 2,
-//     title: 'AutoDraw',
-//     image: 'http://www.autodraw.com/assets/images/autodraw-shareimage.png',
+//     id: '7vlkB8BM5ocRgg6d4rn7',
+//     title: 'Globuzzer - World First Travelers Social Network',
+//     public: true,
+//     url: 'https://globuzzer.com/',
 //     description:
-//       'Fast drawing for everyone. AutoDraw pairs machine learning with drawings from talented artists to help you draw stuff fast.',
-//     url: 'https://www.autodraw.com/',
+//       "Globuzzer is the World's First Travelers' Social Network , here you can share your travel stories and get a full travel information from other nomads",
+//     userId: '6VXzisUfxxdkkrazgLRQGU1UsX42',
+//     image: 'https://www.globuzzer.com/globuzzer-cover.jpg',
+//     createdAt: {
+//       seconds: 1621508340,
+//       nanoseconds: 902000000,
+//     },
 //   },
 // ];
 
-it('render a list of items', () => {
-  // render(<List data={data} />);
-  // const h1s = screen.getAllByRole('heading', { level: 1 });
-  // expect(h1s.length).toBe(0);
-});
+// it('render a list of items', () => {
+//   render(<List data={data} />);
+//   const h1s = screen.getAllByRole('heading', { level: 1 });
+//   expect(h1s.length).toBe(0);
+// });
