@@ -57,7 +57,11 @@ const Card = ({
         <BsThreeDotsVertical onClick={handleDetailsButton} />
       </div>
       {cardId === id && show && cardId && (
-        <ButtonDetails cardUrl={url} removeCard={removeCard} />
+        <ButtonDetails
+          cardUrl={url}
+          removeCard={removeCard}
+          setShow={setShow}
+        />
       )}
     </div>
   );
