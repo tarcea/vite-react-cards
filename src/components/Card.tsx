@@ -1,4 +1,4 @@
-import { ChangeEvent, useState } from 'react';
+import { MouseEvent, useState } from 'react';
 import { BsThreeDotsVertical } from 'react-icons/bs';
 import ButtonDetails from './ButtonDetails';
 
@@ -26,7 +26,7 @@ const Card = ({
     return str;
   };
 
-  const handleDetailsButton = (e: ChangeEvent<HTMLInputElement>) => {
+  const handleDetailsButton = (e: MouseEvent) => {
     e.stopPropagation();
     setCardId(id);
     setShow(!show);
@@ -53,8 +53,9 @@ const Card = ({
       <div
         className='flex flex-nowrap items-center justify-center lg:cursor-pointer w-10 h-10 hover:rounded-full hover:bg-violet-200'
         title='Details'
+        onClick={handleDetailsButton}
       >
-        <BsThreeDotsVertical onClick={handleDetailsButton} />
+        <BsThreeDotsVertical />
       </div>
       {cardId === id && show && cardId && (
         <ButtonDetails
