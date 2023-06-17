@@ -30,15 +30,15 @@ const ButtonDetails = ({
         onClick={(e) => e.stopPropagation()}
       >
         <div
-          className='hover:bg-indigo-100 w-full p-2'
+          className='hover:bg-indigo-100 w-full p-3'
           onClick={() => copyToClipboard(cardUrl)}
         >
           <TextButton text='copyUrl' />
         </div>
-        <div onClick={openUrl} className='hover:bg-indigo-100 w-full p-1'>
+        <div onClick={openUrl} className='hover:bg-indigo-100 w-full p-2'>
           <TextButton text='visitUrl' />
         </div>
-        <div onClick={deleteCard} className='hover:bg-indigo-100 w-full p-2'>
+        <div onClick={deleteCard} className='hover:bg-indigo-100 w-full p-3'>
           <TextButton text='remove' />
         </div>
       </div>
