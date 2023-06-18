@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react';
 import './App.css';
 import CardCounter from './components/CardCounter';
 import DeleteModal from './components/DeleteModal';
+import Filter from './components/Filter';
 import GoUp from './components/GoUp';
 import List from './components/List';
 
@@ -10,7 +11,7 @@ const App = () => {
   const [cardId, setCardId] = useState('');
   const [modal, setModal] = useState(false);
   const [deletedCard, setDeletedCard] = useState<Card>();
-
+  const [dataToDisplay, setDataToDisplay] = useState<Card[]>([]);
   const fetchJson = async () => {
     try {
       const response = await fetch('/data.json');
@@ -35,23 +36,28 @@ const App = () => {
   };
 
   return (
-    <div onClick={() => setCardId('')} className='p-8 m-0 w-full h-full'>
-      <List
-        data={data.sort((a, b) => b.createdAt.seconds - a.createdAt.seconds)}
-        cardId={cardId}
-        setCardId={setCardId}
-        removeCard={removeCard}
-      />
-      <CardCounter counter={data.length} />
-      <GoUp />
-      {deletedCard && modal && (
-        <DeleteModal
-          setModal={setModal}
-          reallyRemoveCard={reallyRemoveCard}
-          card={deletedCard}
+    <>
+      <Filter data={data} setDataToDisplay={setDataToDisplay} />
+      <div onClick={() => setCardId('')} className='p-8 m-0 w-full h-full'>
+        <List
+          data={dataToDisplay.sort(
+            (a, b) => b.createdAt.seconds - a.createdAt.seconds
+          )}
+          cardId={cardId}
+          setCardId={setCardId}
+          removeCard={removeCard}
         />
-      )}
-    </div>
+        <CardCounter counter={dataToDisplay.length} />
+        <GoUp />
+        {deletedCard && modal && (
+          <DeleteModal
+            setModal={setModal}
+            reallyRemoveCard={reallyRemoveCard}
+            card={deletedCard}
+          />
+        )}
+      </div>
+    </>
   );
 };
 

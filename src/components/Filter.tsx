@@ -8,21 +8,50 @@ const Filter = ({
   setDataToDisplay: any;
 }) => {
   const selectRef = useRef<HTMLSelectElement | null>(null);
-  const [filter, setFilter] = useState<string | undefined>();
+  const [filter, setFilter] = useState<string | undefined>('allCards');
 
-  const handleSelect = (e: any) => {
-    e.preventDefault();
-    setFilter(selectRef.current?.value);
+  const privateCards = (data: Card[]) => {
+    return data.filter((card) => card.public === true);
   };
+
+  const publicCards = (data: Card[]) => {
+    return data.filter((card) => card.public === false);
+  };
+
+  const handleSelect = () => {
+    setFilter(selectRef.current?.value);
+    switch (filter) {
+      case 'allCards':
+        setDataToDisplay(data);
+        break;
+      case 'allMyCards':
+        setDataToDisplay(data);
+        break;
+      case 'myPrivateCards':
+        setDataToDisplay(privateCards(data));
+        break;
+      case 'myPublicCards':
+        setDataToDisplay(publicCards(data));
+        break;
+      default:
+        setDataToDisplay(data);
+        break;
+    }
+  };
+
   useEffect(() => {
-    const publicCards = data.filter((card) => card.public === false);
     setFilter('allCards');
-    setDataToDisplay(publicCards);
-  }, [data, setDataToDisplay]);
-  console.log(filter);
+  }, []);
+
   return (
-    <div>
-      <select name='cards' id='cards' onChange={handleSelect} ref={selectRef}>
+    <div className='text-center p-10'>
+      <select
+        name='cards'
+        id='cards'
+        onChange={handleSelect}
+        ref={selectRef}
+        className='w-1/2'
+      >
         <option value='allCards'>All Cards</option>
         <option value='allMyCards'>All My Cards</option>
         <option value='myPrivateCards'>My Private Cards</option>
