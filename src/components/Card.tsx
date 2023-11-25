@@ -34,7 +34,7 @@ const Card = ({
 
   return (
     <div
-      className="bg-slate-100 flex flex-wrap items-center justify-between rounded-lg h-20 w-full relative hover:shadow-xlg shadow-lg shadow-indigo-400/40 cursor-pointer"
+      className="bg-blue-400 flex flex-wrap items-center justify-between rounded-lg h-20 w-full relative hover:shadow-xlg hover:shadow-indigo-800/60 shadow-lg shadow-indigo-400/40 cursor-pointer"
       onClick={() => window.open(url, '_blank')}
     >
       <div

@@ -12,7 +12,7 @@ const List = ({
   removeCard: () => void;
 }) => {
   return (
-    <div className='grid  xl:grid-cols-4 lg:grid-cols-3 md:grid-cols-2 grid-cols-1 grid-flow-row gap-4 mx-auto 2xl:w-5/6'>
+    <div className="grid xl:grid-cols-4 lg:grid-cols-3 md:grid-cols-2 grid-cols-1 grid-flow-row gap-4 mx-auto 2xl:w-5/6">
       {data.map((card: Card) => (
         <Card
           card={card}
