@@ -43,10 +43,10 @@ const Card = ({
       ></div>
 
       <div className="">
-        <p className="text-md font-semibold text text-left absolute top-3 left-32">
+        <p className="text-md font-thin text text-left absolute top-3 left-32">
           {short(displayUrl.host, 20)}
         </p>
-        <p className="text-xs text text-left font-extrabold absolute bottom-5 left-32">
+        <p className="text-xs text text-left font-bold absolute bottom-5 left-32">
           {short(title, 20)}
         </p>
       </div>
